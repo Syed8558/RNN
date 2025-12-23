@@ -1,0 +1,3002 @@
+Folder_Name,File_Name,File_Type,Content,Description,Cleaned_Description
+Hardware_Issue,ticket_01.json,JSON,"{
+  ""ticket_id"": ""TICK-HAR-0001"",
+  ""ticket_type"": ""Hardware_Issue"",
+  ""category"": ""Hardware"",
+  ""title"": ""Hard drive failure"",
+  ""description"": ""User reported: Hard drive failure. Additional details: Physical damage visible on the device. Warranty status needs verification."",
+  ""status"": ""Closed"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-07 20:39:16"",
+  ""updated_date"": ""2025-12-11 20:39:16"",
+  ""resolved_date"": ""2025-12-11 20:39:16"",
+  ""reported_by"": ""Jennifer Martinez"",
+  ""department"": ""Engineering"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""Hardware"",
+    ""High"",
+    ""Closed""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 4
+}",User reported: Hard drive failure. Additional details: Physical damage visible on the device. Warranty status needs verification.,HARD DRIVE FAILURE ADDITIONAL DETAILS PHYSICAL DAMAGE VISIBLE DEVICE WARRANTY STATUS NEEDS VERIFICATION
+Hardware_Issue,ticket_01.pdf,PDF,"IT Support Ticket: TICK-HAR-0001
+Ticket Information
+Ticket ID: TICK-HAR-0001
+Type: Hardware_Issue
+Category: Hardware
+Title: Hard drive failure
+Status: Closed
+Priority: High
+Created Date: 2025-12-07 20:39:16
+Updated Date: 2025-12-11 20:39:16
+Resolved Date: 2025-12-11 20:39:16
+Reported By: Jennifer Martinez
+Department: Engineering
+Assigned To: IT Support Team
+Description
+User reported: Hard drive failure. Additional details: Physical damage visible on the device. Warranty status needs
+verification.
+Additional Information
+Attachments: 3
+Comments: 4
+Tags: Hardware, High, Closed",,
+Hardware_Issue,ticket_02.json,JSON,"{
+  ""ticket_id"": ""TICK-HAR-0002"",
+  ""ticket_type"": ""Hardware_Issue"",
+  ""category"": ""Hardware"",
+  ""title"": ""Keyboard not working"",
+  ""description"": ""User reported: Keyboard not working. Additional details: Device was working fine yesterday. User tried restarting but issue persists."",
+  ""status"": ""Closed"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-10 20:39:17"",
+  ""updated_date"": ""2025-12-13 20:39:17"",
+  ""resolved_date"": ""2025-12-13 20:39:17"",
+  ""reported_by"": ""Jennifer Martinez"",
+  ""department"": ""Finance"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Hardware"",
+    ""High"",
+    ""Closed""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 4
+}",User reported: Keyboard not working. Additional details: Device was working fine yesterday. User tried restarting but issue persists.,KEYBOARD WORKING ADDITIONAL DETAILS DEVICE WORKING FINE YESTERDAY USER TRIED RESTARTING ISSUE PERSISTS
+Hardware_Issue,ticket_02.pdf,PDF,"IT Support Ticket: TICK-HAR-0002
+Ticket Information
+Ticket ID: TICK-HAR-0002
+Type: Hardware_Issue
+Category: Hardware
+Title: Keyboard not working
+Status: Closed
+Priority: High
+Created Date: 2025-12-10 20:39:17
+Updated Date: 2025-12-13 20:39:17
+Resolved Date: 2025-12-13 20:39:17
+Reported By: Jennifer Martinez
+Department: Finance
+Assigned To: System Admin
+Description
+User reported: Keyboard not working. Additional details: Device was working fine yesterday. User tried restarting but
+issue persists.
+Additional Information
+Attachments: 1
+Comments: 4
+Tags: Hardware, High, Closed",,
+Hardware_Issue,ticket_03.json,JSON,"{
+  ""ticket_id"": ""TICK-HAR-0003"",
+  ""ticket_type"": ""Hardware_Issue"",
+  ""category"": ""Hardware"",
+  ""title"": ""USB port not working"",
+  ""description"": ""User reported: USB port not working. Additional details: Issue started after recent system update. Hardware diagnostics show error code."",
+  ""status"": ""Closed"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-19 20:39:17"",
+  ""updated_date"": ""2025-12-20 20:39:17"",
+  ""resolved_date"": ""2025-12-20 20:39:17"",
+  ""reported_by"": ""John Smith"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""Help Desk"",
+  ""tags"": [
+    ""Hardware"",
+    ""Medium"",
+    ""Closed""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 3
+}",User reported: USB port not working. Additional details: Issue started after recent system update. Hardware diagnostics show error code.,USB PORT WORKING ADDITIONAL DETAILS ISSUE STARTED RECENT SYSTEM UPDATE HARDWARE DIAGNOSTICS SHOW ERROR CODE
+Hardware_Issue,ticket_03.pdf,PDF,"IT Support Ticket: TICK-HAR-0003
+Ticket Information
+Ticket ID: TICK-HAR-0003
+Type: Hardware_Issue
+Category: Hardware
+Title: USB port not working
+Status: Closed
+Priority: Medium
+Created Date: 2025-12-19 20:39:17
+Updated Date: 2025-12-20 20:39:17
+Resolved Date: 2025-12-20 20:39:17
+Reported By: John Smith
+Department: HR
+Assigned To: Help Desk
+Description
+User reported: USB port not working. Additional details: Issue started after recent system update. Hardware diagnostics
+show error code.
+Additional Information
+Attachments: 0
+Comments: 3
+Tags: Hardware, Medium, Closed",,
+Hardware_Issue,ticket_04.json,JSON,"{
+  ""ticket_id"": ""TICK-HAR-0004"",
+  ""ticket_type"": ""Hardware_Issue"",
+  ""category"": ""Hardware"",
+  ""title"": ""Power supply problem"",
+  ""description"": ""User reported: Power supply problem. Additional details: Device was working fine yesterday. User tried restarting but issue persists."",
+  ""status"": ""Closed"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-12-16 20:39:17"",
+  ""updated_date"": ""2025-12-20 20:39:17"",
+  ""resolved_date"": ""2025-12-20 20:39:17"",
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""IT"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Hardware"",
+    ""Low"",
+    ""Closed""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 4
+}",User reported: Power supply problem. Additional details: Device was working fine yesterday. User tried restarting but issue persists.,POWER SUPPLY PROBLEM ADDITIONAL DETAILS DEVICE WORKING FINE YESTERDAY USER TRIED RESTARTING ISSUE PERSISTS
+Hardware_Issue,ticket_04.pdf,PDF,"IT Support Ticket: TICK-HAR-0004
+Ticket Information
+Ticket ID: TICK-HAR-0004
+Type: Hardware_Issue
+Category: Hardware
+Title: Power supply problem
+Status: Closed
+Priority: Low
+Created Date: 2025-12-16 20:39:17
+Updated Date: 2025-12-20 20:39:17
+Resolved Date: 2025-12-20 20:39:17
+Reported By: Emily Davis
+Department: IT
+Assigned To: Security Team
+Description
+User reported: Power supply problem. Additional details: Device was working fine yesterday. User tried restarting but
+issue persists.
+Additional Information
+Attachments: 0
+Comments: 4
+Tags: Hardware, Low, Closed",,
+Hardware_Issue,ticket_05.json,JSON,"{
+  ""ticket_id"": ""TICK-HAR-0005"",
+  ""ticket_type"": ""Hardware_Issue"",
+  ""category"": ""Hardware"",
+  ""title"": ""USB port not working"",
+  ""description"": ""User reported: USB port not working. Additional details: Issue started after recent system update. Hardware diagnostics show error code."",
+  ""status"": ""Resolved"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-05 20:39:17"",
+  ""updated_date"": ""2025-12-14 20:39:17"",
+  ""resolved_date"": ""2025-12-14 20:39:17"",
+  ""reported_by"": ""Lisa Anderson"",
+  ""department"": ""Engineering"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Hardware"",
+    ""High"",
+    ""Resolved""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 2
+}",User reported: USB port not working. Additional details: Issue started after recent system update. Hardware diagnostics show error code.,USB PORT WORKING ADDITIONAL DETAILS ISSUE STARTED RECENT SYSTEM UPDATE HARDWARE DIAGNOSTICS SHOW ERROR CODE
+Hardware_Issue,ticket_05.pdf,PDF,"IT Support Ticket: TICK-HAR-0005
+Ticket Information
+Ticket ID: TICK-HAR-0005
+Type: Hardware_Issue
+Category: Hardware
+Title: USB port not working
+Status: Resolved
+Priority: High
+Created Date: 2025-12-05 20:39:17
+Updated Date: 2025-12-14 20:39:17
+Resolved Date: 2025-12-14 20:39:17
+Reported By: Lisa Anderson
+Department: Engineering
+Assigned To: System Admin
+Description
+User reported: USB port not working. Additional details: Issue started after recent system update. Hardware diagnostics
+show error code.
+Additional Information
+Attachments: 3
+Comments: 2
+Tags: Hardware, High, Resolved",,
+Hardware_Issue,ticket_06.json,JSON,"{
+  ""ticket_id"": ""TICK-HAR-0006"",
+  ""ticket_type"": ""Hardware_Issue"",
+  ""category"": ""Hardware"",
+  ""title"": ""Monitor display issue"",
+  ""description"": ""User reported: Monitor display issue. Additional details: User reports intermittent behavior. Sometimes works, sometimes doesn't."",
+  ""status"": ""Closed"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-22 20:39:17"",
+  ""updated_date"": ""2025-12-30 20:39:17"",
+  ""resolved_date"": ""2025-12-30 20:39:17"",
+  ""reported_by"": ""Michael Brown"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Hardware"",
+    ""Medium"",
+    ""Closed""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 4
+}","User reported: Monitor display issue. Additional details: User reports intermittent behavior. Sometimes works, sometimes doesn't.",MONITOR DISPLAY ISSUE ADDITIONAL DETAILS USER REPORTS INTERMITTENT BEHAVIOR SOMETIMES WORKS SOMETIMES
+Hardware_Issue,ticket_06.pdf,PDF,"IT Support Ticket: TICK-HAR-0006
+Ticket Information
+Ticket ID: TICK-HAR-0006
+Type: Hardware_Issue
+Category: Hardware
+Title: Monitor display issue
+Status: Closed
+Priority: Medium
+Created Date: 2025-12-22 20:39:17
+Updated Date: 2025-12-30 20:39:17
+Resolved Date: 2025-12-30 20:39:17
+Reported By: Michael Brown
+Department: HR
+Assigned To: Network Admin
+Description
+User reported: Monitor display issue. Additional details: User reports intermittent behavior. Sometimes works,
+sometimes doesn't.
+Additional Information
+Attachments: 1
+Comments: 4
+Tags: Hardware, Medium, Closed",,
+Hardware_Issue,ticket_07.json,JSON,"{
+  ""ticket_id"": ""TICK-HAR-0007"",
+  ""ticket_type"": ""Hardware_Issue"",
+  ""category"": ""Hardware"",
+  ""title"": ""Screen cracked"",
+  ""description"": ""User reported: Screen cracked. Additional details: Issue started after recent system update. Hardware diagnostics show error code."",
+  ""status"": ""Open"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-11-26 20:39:17"",
+  ""updated_date"": ""2025-12-03 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Robert Taylor"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""Help Desk"",
+  ""tags"": [
+    ""Hardware"",
+    ""Low"",
+    ""Open""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 1
+}",User reported: Screen cracked. Additional details: Issue started after recent system update. Hardware diagnostics show error code.,SCREEN CRACKED ADDITIONAL DETAILS ISSUE STARTED RECENT SYSTEM UPDATE HARDWARE DIAGNOSTICS SHOW ERROR CODE
+Hardware_Issue,ticket_07.pdf,PDF,"IT Support Ticket: TICK-HAR-0007
+Ticket Information
+Ticket ID: TICK-HAR-0007
+Type: Hardware_Issue
+Category: Hardware
+Title: Screen cracked
+Status: Open
+Priority: Low
+Created Date: 2025-11-26 20:39:17
+Updated Date: 2025-12-03 20:39:17
+Resolved Date: N/A
+Reported By: Robert Taylor
+Department: Support
+Assigned To: Help Desk
+Description
+User reported: Screen cracked. Additional details: Issue started after recent system update. Hardware diagnostics show
+error code.
+Additional Information
+Attachments: 1
+Comments: 1
+Tags: Hardware, Low, Open",,
+Hardware_Issue,ticket_08.json,JSON,"{
+  ""ticket_id"": ""TICK-HAR-0008"",
+  ""ticket_type"": ""Hardware_Issue"",
+  ""category"": ""Hardware"",
+  ""title"": ""Mouse not responding"",
+  ""description"": ""User reported: Mouse not responding. Additional details: Issue started after recent system update. Hardware diagnostics show error code."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-12-05 20:39:17"",
+  ""updated_date"": ""2025-12-15 20:39:17"",
+  ""resolved_date"": ""2025-12-15 20:39:17"",
+  ""reported_by"": ""Michael Brown"",
+  ""department"": ""Engineering"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Hardware"",
+    ""Critical"",
+    ""Resolved""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 5
+}",User reported: Mouse not responding. Additional details: Issue started after recent system update. Hardware diagnostics show error code.,MOUSE RESPONDING ADDITIONAL DETAILS ISSUE STARTED RECENT SYSTEM UPDATE HARDWARE DIAGNOSTICS SHOW ERROR CODE
+Hardware_Issue,ticket_08.pdf,PDF,"IT Support Ticket: TICK-HAR-0008
+Ticket Information
+Ticket ID: TICK-HAR-0008
+Type: Hardware_Issue
+Category: Hardware
+Title: Mouse not responding
+Status: Resolved
+Priority: Critical
+Created Date: 2025-12-05 20:39:17
+Updated Date: 2025-12-15 20:39:17
+Resolved Date: 2025-12-15 20:39:17
+Reported By: Michael Brown
+Department: Engineering
+Assigned To: Network Admin
+Description
+User reported: Mouse not responding. Additional details: Issue started after recent system update. Hardware diagnostics
+show error code.
+Additional Information
+Attachments: 0
+Comments: 5
+Tags: Hardware, Critical, Resolved",,
+Hardware_Issue,ticket_09.json,JSON,"{
+  ""ticket_id"": ""TICK-HAR-0009"",
+  ""ticket_type"": ""Hardware_Issue"",
+  ""category"": ""Hardware"",
+  ""title"": ""Screen cracked"",
+  ""description"": ""User reported: Screen cracked. Additional details: Device was working fine yesterday. User tried restarting but issue persists."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-11 20:39:17"",
+  ""updated_date"": ""2025-12-21 20:39:17"",
+  ""resolved_date"": ""2025-12-21 20:39:17"",
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Hardware"",
+    ""Medium"",
+    ""Resolved""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 1
+}",User reported: Screen cracked. Additional details: Device was working fine yesterday. User tried restarting but issue persists.,SCREEN CRACKED ADDITIONAL DETAILS DEVICE WORKING FINE YESTERDAY USER TRIED RESTARTING ISSUE PERSISTS
+Hardware_Issue,ticket_09.pdf,PDF,"IT Support Ticket: TICK-HAR-0009
+Ticket Information
+Ticket ID: TICK-HAR-0009
+Type: Hardware_Issue
+Category: Hardware
+Title: Screen cracked
+Status: Resolved
+Priority: Medium
+Created Date: 2025-12-11 20:39:17
+Updated Date: 2025-12-21 20:39:17
+Resolved Date: 2025-12-21 20:39:17
+Reported By: Emily Davis
+Department: HR
+Assigned To: System Admin
+Description
+User reported: Screen cracked. Additional details: Device was working fine yesterday. User tried restarting but issue
+persists.
+Additional Information
+Attachments: 2
+Comments: 1
+Tags: Hardware, Medium, Resolved",,
+Hardware_Issue,ticket_10.json,JSON,"{
+  ""ticket_id"": ""TICK-HAR-0010"",
+  ""ticket_type"": ""Hardware_Issue"",
+  ""category"": ""Hardware"",
+  ""title"": ""USB port not working"",
+  ""description"": ""User reported: USB port not working. Additional details: User reports intermittent behavior. Sometimes works, sometimes doesn't."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-11-22 20:39:17"",
+  ""updated_date"": ""2025-11-26 20:39:17"",
+  ""resolved_date"": ""2025-11-26 20:39:17"",
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""Help Desk"",
+  ""tags"": [
+    ""Hardware"",
+    ""Critical"",
+    ""Resolved""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 1
+}","User reported: USB port not working. Additional details: User reports intermittent behavior. Sometimes works, sometimes doesn't.",USB PORT WORKING ADDITIONAL DETAILS USER REPORTS INTERMITTENT BEHAVIOR SOMETIMES WORKS SOMETIMES
+Hardware_Issue,ticket_10.pdf,PDF,"IT Support Ticket: TICK-HAR-0010
+Ticket Information
+Ticket ID: TICK-HAR-0010
+Type: Hardware_Issue
+Category: Hardware
+Title: USB port not working
+Status: Resolved
+Priority: Critical
+Created Date: 2025-11-22 20:39:17
+Updated Date: 2025-11-26 20:39:17
+Resolved Date: 2025-11-26 20:39:17
+Reported By: Emily Davis
+Department: HR
+Assigned To: Help Desk
+Description
+User reported: USB port not working. Additional details: User reports intermittent behavior. Sometimes works,
+sometimes doesn't.
+Additional Information
+Attachments: 2
+Comments: 1
+Tags: Hardware, Critical, Resolved",,
+Software_Issue,ticket_01.json,JSON,"{
+  ""ticket_id"": ""TICK-SOF-0001"",
+  ""ticket_type"": ""Software_Issue"",
+  ""category"": ""Software"",
+  ""title"": ""Performance slow"",
+  ""description"": ""User reported: Performance slow. Additional details: Performance degradation noticed after recent update. System resources normal."",
+  ""status"": ""Pending"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-11-24 20:39:17"",
+  ""updated_date"": ""2025-12-04 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""Help Desk"",
+  ""tags"": [
+    ""Software"",
+    ""Critical"",
+    ""Pending""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 0
+}",User reported: Performance slow. Additional details: Performance degradation noticed after recent update. System resources normal.,PERFORMANCE SLOW ADDITIONAL DETAILS PERFORMANCE DEGRADATION NOTICED RECENT UPDATE SYSTEM RESOURCES NORMAL
+Software_Issue,ticket_01.pdf,PDF,"IT Support Ticket: TICK-SOF-0001
+Ticket Information
+Ticket ID: TICK-SOF-0001
+Type: Software_Issue
+Category: Software
+Title: Performance slow
+Status: Pending
+Priority: Critical
+Created Date: 2025-11-24 20:39:17
+Updated Date: 2025-12-04 20:39:17
+Resolved Date: N/A
+Reported By: Sarah Johnson
+Department: HR
+Assigned To: Help Desk
+Description
+User reported: Performance slow. Additional details: Performance degradation noticed after recent update. System
+resources normal.
+Additional Information
+Attachments: 0
+Comments: 0
+Tags: Software, Critical, Pending",,
+Software_Issue,ticket_02.json,JSON,"{
+  ""ticket_id"": ""TICK-SOF-0002"",
+  ""ticket_type"": ""Software_Issue"",
+  ""category"": ""Software"",
+  ""title"": ""Update failed"",
+  ""description"": ""User reported: Update failed. Additional details: Performance degradation noticed after recent update. System resources normal."",
+  ""status"": ""Open"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-11-27 20:39:17"",
+  ""updated_date"": ""2025-11-29 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""John Smith"",
+  ""department"": ""Operations"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Software"",
+    ""High"",
+    ""Open""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 3
+}",User reported: Update failed. Additional details: Performance degradation noticed after recent update. System resources normal.,UPDATE FAILED ADDITIONAL DETAILS PERFORMANCE DEGRADATION NOTICED RECENT UPDATE SYSTEM RESOURCES NORMAL
+Software_Issue,ticket_02.pdf,PDF,"IT Support Ticket: TICK-SOF-0002
+Ticket Information
+Ticket ID: TICK-SOF-0002
+Type: Software_Issue
+Category: Software
+Title: Update failed
+Status: Open
+Priority: High
+Created Date: 2025-11-27 20:39:17
+Updated Date: 2025-11-29 20:39:17
+Resolved Date: N/A
+Reported By: John Smith
+Department: Operations
+Assigned To: Network Admin
+Description
+User reported: Update failed. Additional details: Performance degradation noticed after recent update. System resources
+normal.
+Additional Information
+Attachments: 1
+Comments: 3
+Tags: Software, High, Open",,
+Software_Issue,ticket_03.json,JSON,"{
+  ""ticket_id"": ""TICK-SOF-0003"",
+  ""ticket_type"": ""Software_Issue"",
+  ""category"": ""Software"",
+  ""title"": ""Compatibility issue"",
+  ""description"": ""User reported: Compatibility issue. Additional details: User unable to complete workflow. Feature was working last week."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-12-04 20:39:17"",
+  ""updated_date"": ""2025-12-13 20:39:17"",
+  ""resolved_date"": ""2025-12-13 20:39:17"",
+  ""reported_by"": ""Jennifer Martinez"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Software"",
+    ""Critical"",
+    ""Resolved""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 0
+}",User reported: Compatibility issue. Additional details: User unable to complete workflow. Feature was working last week.,COMPATIBILITY ISSUE ADDITIONAL DETAILS USER UNABLE COMPLETE WORKFLOW FEATURE WORKING LAST WEEK
+Software_Issue,ticket_03.pdf,PDF,"IT Support Ticket: TICK-SOF-0003
+Ticket Information
+Ticket ID: TICK-SOF-0003
+Type: Software_Issue
+Category: Software
+Title: Compatibility issue
+Status: Resolved
+Priority: Critical
+Created Date: 2025-12-04 20:39:17
+Updated Date: 2025-12-13 20:39:17
+Resolved Date: 2025-12-13 20:39:17
+Reported By: Jennifer Martinez
+Department: Support
+Assigned To: Security Team
+Description
+User reported: Compatibility issue. Additional details: User unable to complete workflow. Feature was working last week.
+Additional Information
+Attachments: 2
+Comments: 0
+Tags: Software, Critical, Resolved",,
+Software_Issue,ticket_04.json,JSON,"{
+  ""ticket_id"": ""TICK-SOF-0004"",
+  ""ticket_type"": ""Software_Issue"",
+  ""category"": ""Software"",
+  ""title"": ""Update failed"",
+  ""description"": ""User reported: Update failed. Additional details: User unable to complete workflow. Feature was working last week."",
+  ""status"": ""Open"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-08 20:39:17"",
+  ""updated_date"": ""2025-12-16 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Software"",
+    ""High"",
+    ""Open""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 1
+}",User reported: Update failed. Additional details: User unable to complete workflow. Feature was working last week.,UPDATE FAILED ADDITIONAL DETAILS USER UNABLE COMPLETE WORKFLOW FEATURE WORKING LAST WEEK
+Software_Issue,ticket_04.pdf,PDF,"IT Support Ticket: TICK-SOF-0004
+Ticket Information
+Ticket ID: TICK-SOF-0004
+Type: Software_Issue
+Category: Software
+Title: Update failed
+Status: Open
+Priority: High
+Created Date: 2025-12-08 20:39:17
+Updated Date: 2025-12-16 20:39:17
+Resolved Date: N/A
+Reported By: Emily Davis
+Department: Support
+Assigned To: System Admin
+Description
+User reported: Update failed. Additional details: User unable to complete workflow. Feature was working last week.
+Additional Information
+Attachments: 1
+Comments: 1
+Tags: Software, High, Open",,
+Software_Issue,ticket_05.json,JSON,"{
+  ""ticket_id"": ""TICK-SOF-0005"",
+  ""ticket_type"": ""Software_Issue"",
+  ""category"": ""Software"",
+  ""title"": ""Update failed"",
+  ""description"": ""User reported: Update failed. Additional details: Performance degradation noticed after recent update. System resources normal."",
+  ""status"": ""Closed"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-12-03 20:39:17"",
+  ""updated_date"": ""2025-12-07 20:39:17"",
+  ""resolved_date"": ""2025-12-07 20:39:17"",
+  ""reported_by"": ""David Wilson"",
+  ""department"": ""Engineering"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""Software"",
+    ""Critical"",
+    ""Closed""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 1
+}",User reported: Update failed. Additional details: Performance degradation noticed after recent update. System resources normal.,UPDATE FAILED ADDITIONAL DETAILS PERFORMANCE DEGRADATION NOTICED RECENT UPDATE SYSTEM RESOURCES NORMAL
+Software_Issue,ticket_05.pdf,PDF,"IT Support Ticket: TICK-SOF-0005
+Ticket Information
+Ticket ID: TICK-SOF-0005
+Type: Software_Issue
+Category: Software
+Title: Update failed
+Status: Closed
+Priority: Critical
+Created Date: 2025-12-03 20:39:17
+Updated Date: 2025-12-07 20:39:17
+Resolved Date: 2025-12-07 20:39:17
+Reported By: David Wilson
+Department: Engineering
+Assigned To: IT Support Team
+Description
+User reported: Update failed. Additional details: Performance degradation noticed after recent update. System resources
+normal.
+Additional Information
+Attachments: 3
+Comments: 1
+Tags: Software, Critical, Closed",,
+Software_Issue,ticket_06.json,JSON,"{
+  ""ticket_id"": ""TICK-SOF-0006"",
+  ""ticket_type"": ""Software_Issue"",
+  ""category"": ""Software"",
+  ""title"": ""Software won't install"",
+  ""description"": ""User reported: Software won't install. Additional details: Application freezes when opening large files. Error log shows memory issues."",
+  ""status"": ""Closed"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-01 20:39:17"",
+  ""updated_date"": ""2025-12-05 20:39:17"",
+  ""resolved_date"": ""2025-12-05 20:39:17"",
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""Engineering"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Software"",
+    ""High"",
+    ""Closed""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 3
+}",User reported: Software won't install. Additional details: Application freezes when opening large files. Error log shows memory issues.,SOFTWARE INSTALL ADDITIONAL DETAILS APPLICATION FREEZES OPENING LARGE FILES ERROR LOG SHOWS MEMORY ISSUES
+Software_Issue,ticket_06.pdf,PDF,"IT Support Ticket: TICK-SOF-0006
+Ticket Information
+Ticket ID: TICK-SOF-0006
+Type: Software_Issue
+Category: Software
+Title: Software won't install
+Status: Closed
+Priority: High
+Created Date: 2025-12-01 20:39:17
+Updated Date: 2025-12-05 20:39:17
+Resolved Date: 2025-12-05 20:39:17
+Reported By: Emily Davis
+Department: Engineering
+Assigned To: Security Team
+Description
+User reported: Software won't install. Additional details: Application freezes when opening large files. Error log shows
+memory issues.
+Additional Information
+Attachments: 1
+Comments: 3
+Tags: Software, High, Closed",,
+Software_Issue,ticket_07.json,JSON,"{
+  ""ticket_id"": ""TICK-SOF-0007"",
+  ""ticket_type"": ""Software_Issue"",
+  ""category"": ""Software"",
+  ""title"": ""Error messages"",
+  ""description"": ""User reported: Error messages. Additional details: User unable to complete workflow. Feature was working last week."",
+  ""status"": ""Closed"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-02 20:39:17"",
+  ""updated_date"": ""2025-12-11 20:39:17"",
+  ""resolved_date"": ""2025-12-11 20:39:17"",
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""IT"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Software"",
+    ""High"",
+    ""Closed""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 2
+}",User reported: Error messages. Additional details: User unable to complete workflow. Feature was working last week.,ERROR MESSAGES ADDITIONAL DETAILS USER UNABLE COMPLETE WORKFLOW FEATURE WORKING LAST WEEK
+Software_Issue,ticket_07.pdf,PDF,"IT Support Ticket: TICK-SOF-0007
+Ticket Information
+Ticket ID: TICK-SOF-0007
+Type: Software_Issue
+Category: Software
+Title: Error messages
+Status: Closed
+Priority: High
+Created Date: 2025-12-02 20:39:17
+Updated Date: 2025-12-11 20:39:17
+Resolved Date: 2025-12-11 20:39:17
+Reported By: Sarah Johnson
+Department: IT
+Assigned To: System Admin
+Description
+User reported: Error messages. Additional details: User unable to complete workflow. Feature was working last week.
+Additional Information
+Attachments: 2
+Comments: 2
+Tags: Software, High, Closed",,
+Software_Issue,ticket_08.json,JSON,"{
+  ""ticket_id"": ""TICK-SOF-0008"",
+  ""ticket_type"": ""Software_Issue"",
+  ""category"": ""Software"",
+  ""title"": ""Configuration problem"",
+  ""description"": ""User reported: Configuration problem. Additional details: Performance degradation noticed after recent update. System resources normal."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-12-03 20:39:17"",
+  ""updated_date"": ""2025-12-13 20:39:17"",
+  ""resolved_date"": ""2025-12-13 20:39:17"",
+  ""reported_by"": ""Robert Taylor"",
+  ""department"": ""Operations"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Software"",
+    ""Low"",
+    ""Resolved""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 1
+}",User reported: Configuration problem. Additional details: Performance degradation noticed after recent update. System resources normal.,CONFIGURATION PROBLEM ADDITIONAL DETAILS PERFORMANCE DEGRADATION NOTICED RECENT UPDATE SYSTEM RESOURCES NORMAL
+Software_Issue,ticket_08.pdf,PDF,"IT Support Ticket: TICK-SOF-0008
+Ticket Information
+Ticket ID: TICK-SOF-0008
+Type: Software_Issue
+Category: Software
+Title: Configuration problem
+Status: Resolved
+Priority: Low
+Created Date: 2025-12-03 20:39:17
+Updated Date: 2025-12-13 20:39:17
+Resolved Date: 2025-12-13 20:39:17
+Reported By: Robert Taylor
+Department: Operations
+Assigned To: Network Admin
+Description
+User reported: Configuration problem. Additional details: Performance degradation noticed after recent update. System
+resources normal.
+Additional Information
+Attachments: 0
+Comments: 1
+Tags: Software, Low, Resolved",,
+Software_Issue,ticket_09.json,JSON,"{
+  ""ticket_id"": ""TICK-SOF-0009"",
+  ""ticket_type"": ""Software_Issue"",
+  ""category"": ""Software"",
+  ""title"": ""License expired"",
+  ""description"": ""User reported: License expired. Additional details: Application freezes when opening large files. Error log shows memory issues."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-11-24 20:39:17"",
+  ""updated_date"": ""2025-12-03 20:39:17"",
+  ""resolved_date"": ""2025-12-03 20:39:17"",
+  ""reported_by"": ""Lisa Anderson"",
+  ""department"": ""Sales"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Software"",
+    ""Low"",
+    ""Resolved""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 5
+}",User reported: License expired. Additional details: Application freezes when opening large files. Error log shows memory issues.,LICENSE EXPIRED ADDITIONAL DETAILS APPLICATION FREEZES OPENING LARGE FILES ERROR LOG SHOWS MEMORY ISSUES
+Software_Issue,ticket_09.pdf,PDF,"IT Support Ticket: TICK-SOF-0009
+Ticket Information
+Ticket ID: TICK-SOF-0009
+Type: Software_Issue
+Category: Software
+Title: License expired
+Status: Resolved
+Priority: Low
+Created Date: 2025-11-24 20:39:17
+Updated Date: 2025-12-03 20:39:17
+Resolved Date: 2025-12-03 20:39:17
+Reported By: Lisa Anderson
+Department: Sales
+Assigned To: Network Admin
+Description
+User reported: License expired. Additional details: Application freezes when opening large files. Error log shows memory
+issues.
+Additional Information
+Attachments: 1
+Comments: 5
+Tags: Software, Low, Resolved",,
+Software_Issue,ticket_10.json,JSON,"{
+  ""ticket_id"": ""TICK-SOF-0010"",
+  ""ticket_type"": ""Software_Issue"",
+  ""category"": ""Software"",
+  ""title"": ""Feature not working"",
+  ""description"": ""User reported: Feature not working. Additional details: User unable to complete workflow. Feature was working last week."",
+  ""status"": ""Closed"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-11-24 20:39:17"",
+  ""updated_date"": ""2025-11-29 20:39:17"",
+  ""resolved_date"": ""2025-11-29 20:39:17"",
+  ""reported_by"": ""Michael Brown"",
+  ""department"": ""IT"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Software"",
+    ""Medium"",
+    ""Closed""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 2
+}",User reported: Feature not working. Additional details: User unable to complete workflow. Feature was working last week.,FEATURE WORKING ADDITIONAL DETAILS USER UNABLE COMPLETE WORKFLOW FEATURE WORKING LAST WEEK
+Software_Issue,ticket_10.pdf,PDF,"IT Support Ticket: TICK-SOF-0010
+Ticket Information
+Ticket ID: TICK-SOF-0010
+Type: Software_Issue
+Category: Software
+Title: Feature not working
+Status: Closed
+Priority: Medium
+Created Date: 2025-11-24 20:39:17
+Updated Date: 2025-11-29 20:39:17
+Resolved Date: 2025-11-29 20:39:17
+Reported By: Michael Brown
+Department: IT
+Assigned To: System Admin
+Description
+User reported: Feature not working. Additional details: User unable to complete workflow. Feature was working last
+week.
+Additional Information
+Attachments: 0
+Comments: 2
+Tags: Software, Medium, Closed",,
+Network_Problem,ticket_01.json,JSON,"{
+  ""ticket_id"": ""TICK-NET-0001"",
+  ""ticket_type"": ""Network_Problem"",
+  ""category"": ""Network"",
+  ""title"": ""No internet connection"",
+  ""description"": ""User reported: No internet connection. Additional details: Speed test shows 10% of expected bandwidth. Router reboot didn't help."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-12-17 20:39:17"",
+  ""updated_date"": ""2025-12-23 20:39:17"",
+  ""resolved_date"": ""2025-12-23 20:39:17"",
+  ""reported_by"": ""Michael Brown"",
+  ""department"": ""Marketing"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Network"",
+    ""Critical"",
+    ""Resolved""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 2
+}",User reported: No internet connection. Additional details: Speed test shows 10% of expected bandwidth. Router reboot didn't help.,INTERNET CONNECTION ADDITIONAL DETAILS SPEED TEST SHOWS EXPECTED BANDWIDTH ROUTER REBOOT HELP
+Network_Problem,ticket_01.pdf,PDF,"IT Support Ticket: TICK-NET-0001
+Ticket Information
+Ticket ID: TICK-NET-0001
+Type: Network_Problem
+Category: Network
+Title: No internet connection
+Status: Resolved
+Priority: Critical
+Created Date: 2025-12-17 20:39:17
+Updated Date: 2025-12-23 20:39:17
+Resolved Date: 2025-12-23 20:39:17
+Reported By: Michael Brown
+Department: Marketing
+Assigned To: Security Team
+Description
+User reported: No internet connection. Additional details: Speed test shows 10% of expected bandwidth. Router reboot
+didn't help.
+Additional Information
+Attachments: 0
+Comments: 2
+Tags: Network, Critical, Resolved",,
+Network_Problem,ticket_02.json,JSON,"{
+  ""ticket_id"": ""TICK-NET-0002"",
+  ""ticket_type"": ""Network_Problem"",
+  ""category"": ""Network"",
+  ""title"": ""WiFi not connecting"",
+  ""description"": ""User reported: WiFi not connecting. Additional details: Speed test shows 10% of expected bandwidth. Router reboot didn't help."",
+  ""status"": ""Resolved"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-11-30 20:39:17"",
+  ""updated_date"": ""2025-12-06 20:39:17"",
+  ""resolved_date"": ""2025-12-06 20:39:17"",
+  ""reported_by"": ""Robert Taylor"",
+  ""department"": ""Marketing"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Network"",
+    ""High"",
+    ""Resolved""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 0
+}",User reported: WiFi not connecting. Additional details: Speed test shows 10% of expected bandwidth. Router reboot didn't help.,WIFI CONNECTING ADDITIONAL DETAILS SPEED TEST SHOWS EXPECTED BANDWIDTH ROUTER REBOOT HELP
+Network_Problem,ticket_02.pdf,PDF,"IT Support Ticket: TICK-NET-0002
+Ticket Information
+Ticket ID: TICK-NET-0002
+Type: Network_Problem
+Category: Network
+Title: WiFi not connecting
+Status: Resolved
+Priority: High
+Created Date: 2025-11-30 20:39:17
+Updated Date: 2025-12-06 20:39:17
+Resolved Date: 2025-12-06 20:39:17
+Reported By: Robert Taylor
+Department: Marketing
+Assigned To: Security Team
+Description
+User reported: WiFi not connecting. Additional details: Speed test shows 10% of expected bandwidth. Router reboot
+didn't help.
+Additional Information
+Attachments: 0
+Comments: 0
+Tags: Network, High, Resolved",,
+Network_Problem,ticket_03.json,JSON,"{
+  ""ticket_id"": ""TICK-NET-0003"",
+  ""ticket_type"": ""Network_Problem"",
+  ""category"": ""Network"",
+  ""title"": ""Network timeout"",
+  ""description"": ""User reported: Network timeout. Additional details: Connection drops intermittently. Other devices on network working fine."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-11-24 20:39:17"",
+  ""updated_date"": ""2025-11-24 20:39:17"",
+  ""resolved_date"": ""2025-11-24 20:39:17"",
+  ""reported_by"": ""Robert Taylor"",
+  ""department"": ""Engineering"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Network"",
+    ""Medium"",
+    ""Resolved""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 2
+}",User reported: Network timeout. Additional details: Connection drops intermittently. Other devices on network working fine.,NETWORK TIMEOUT ADDITIONAL DETAILS CONNECTION DROPS INTERMITTENTLY DEVICES NETWORK WORKING FINE
+Network_Problem,ticket_03.pdf,PDF,"IT Support Ticket: TICK-NET-0003
+Ticket Information
+Ticket ID: TICK-NET-0003
+Type: Network_Problem
+Category: Network
+Title: Network timeout
+Status: Resolved
+Priority: Medium
+Created Date: 2025-11-24 20:39:17
+Updated Date: 2025-11-24 20:39:17
+Resolved Date: 2025-11-24 20:39:17
+Reported By: Robert Taylor
+Department: Engineering
+Assigned To: System Admin
+Description
+User reported: Network timeout. Additional details: Connection drops intermittently. Other devices on network working
+fine.
+Additional Information
+Attachments: 0
+Comments: 2
+Tags: Network, Medium, Resolved",,
+Network_Problem,ticket_04.json,JSON,"{
+  ""ticket_id"": ""TICK-NET-0004"",
+  ""ticket_type"": ""Network_Problem"",
+  ""category"": ""Network"",
+  ""title"": ""Email not syncing"",
+  ""description"": ""User reported: Email not syncing. Additional details: DNS queries timing out. Local network connectivity confirmed."",
+  ""status"": ""Pending"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-07 20:39:17"",
+  ""updated_date"": ""2025-12-10 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""IT"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Network"",
+    ""Medium"",
+    ""Pending""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 4
+}",User reported: Email not syncing. Additional details: DNS queries timing out. Local network connectivity confirmed.,EMAIL SYNCING ADDITIONAL DETAILS DNS QUERIES TIMING LOCAL NETWORK CONNECTIVITY CONFIRMED
+Network_Problem,ticket_04.pdf,PDF,"IT Support Ticket: TICK-NET-0004
+Ticket Information
+Ticket ID: TICK-NET-0004
+Type: Network_Problem
+Category: Network
+Title: Email not syncing
+Status: Pending
+Priority: Medium
+Created Date: 2025-12-07 20:39:17
+Updated Date: 2025-12-10 20:39:17
+Resolved Date: N/A
+Reported By: Emily Davis
+Department: IT
+Assigned To: Security Team
+Description
+User reported: Email not syncing. Additional details: DNS queries timing out. Local network connectivity confirmed.
+Additional Information
+Attachments: 2
+Comments: 4
+Tags: Network, Medium, Pending",,
+Network_Problem,ticket_05.json,JSON,"{
+  ""ticket_id"": ""TICK-NET-0005"",
+  ""ticket_type"": ""Network_Problem"",
+  ""category"": ""Network"",
+  ""title"": ""Firewall blocking"",
+  ""description"": ""User reported: Firewall blocking. Additional details: Connection drops intermittently. Other devices on network working fine."",
+  ""status"": ""Closed"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-12-06 20:39:17"",
+  ""updated_date"": ""2025-12-08 20:39:17"",
+  ""resolved_date"": ""2025-12-08 20:39:17"",
+  ""reported_by"": ""David Wilson"",
+  ""department"": ""Finance"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Network"",
+    ""Low"",
+    ""Closed""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 1
+}",User reported: Firewall blocking. Additional details: Connection drops intermittently. Other devices on network working fine.,FIREWALL BLOCKING ADDITIONAL DETAILS CONNECTION DROPS INTERMITTENTLY DEVICES NETWORK WORKING FINE
+Network_Problem,ticket_05.pdf,PDF,"IT Support Ticket: TICK-NET-0005
+Ticket Information
+Ticket ID: TICK-NET-0005
+Type: Network_Problem
+Category: Network
+Title: Firewall blocking
+Status: Closed
+Priority: Low
+Created Date: 2025-12-06 20:39:17
+Updated Date: 2025-12-08 20:39:17
+Resolved Date: 2025-12-08 20:39:17
+Reported By: David Wilson
+Department: Finance
+Assigned To: Security Team
+Description
+User reported: Firewall blocking. Additional details: Connection drops intermittently. Other devices on network working
+fine.
+Additional Information
+Attachments: 3
+Comments: 1
+Tags: Network, Low, Closed",,
+Network_Problem,ticket_06.json,JSON,"{
+  ""ticket_id"": ""TICK-NET-0006"",
+  ""ticket_type"": ""Network_Problem"",
+  ""category"": ""Network"",
+  ""title"": ""Email not syncing"",
+  ""description"": ""User reported: Email not syncing. Additional details: Speed test shows 10% of expected bandwidth. Router reboot didn't help."",
+  ""status"": ""In Progress"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-04 20:39:17"",
+  ""updated_date"": ""2025-12-07 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Robert Taylor"",
+  ""department"": ""Finance"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""Network"",
+    ""Medium"",
+    ""In Progress""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 0
+}",User reported: Email not syncing. Additional details: Speed test shows 10% of expected bandwidth. Router reboot didn't help.,EMAIL SYNCING ADDITIONAL DETAILS SPEED TEST SHOWS EXPECTED BANDWIDTH ROUTER REBOOT HELP
+Network_Problem,ticket_06.pdf,PDF,"IT Support Ticket: TICK-NET-0006
+Ticket Information
+Ticket ID: TICK-NET-0006
+Type: Network_Problem
+Category: Network
+Title: Email not syncing
+Status: In Progress
+Priority: Medium
+Created Date: 2025-12-04 20:39:17
+Updated Date: 2025-12-07 20:39:17
+Resolved Date: N/A
+Reported By: Robert Taylor
+Department: Finance
+Assigned To: IT Support Team
+Description
+User reported: Email not syncing. Additional details: Speed test shows 10% of expected bandwidth. Router reboot didn't
+help.
+Additional Information
+Attachments: 2
+Comments: 0
+Tags: Network, Medium, In Progress",,
+Network_Problem,ticket_07.json,JSON,"{
+  ""ticket_id"": ""TICK-NET-0007"",
+  ""ticket_type"": ""Network_Problem"",
+  ""category"": ""Network"",
+  ""title"": ""VPN access issue"",
+  ""description"": ""User reported: VPN access issue. Additional details: DNS queries timing out. Local network connectivity confirmed."",
+  ""status"": ""Closed"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-11-30 20:39:17"",
+  ""updated_date"": ""2025-12-04 20:39:17"",
+  ""resolved_date"": ""2025-12-04 20:39:17"",
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""Sales"",
+  ""assigned_to"": ""Help Desk"",
+  ""tags"": [
+    ""Network"",
+    ""Medium"",
+    ""Closed""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 3
+}",User reported: VPN access issue. Additional details: DNS queries timing out. Local network connectivity confirmed.,VPN ACCESS ISSUE ADDITIONAL DETAILS DNS QUERIES TIMING LOCAL NETWORK CONNECTIVITY CONFIRMED
+Network_Problem,ticket_07.pdf,PDF,"IT Support Ticket: TICK-NET-0007
+Ticket Information
+Ticket ID: TICK-NET-0007
+Type: Network_Problem
+Category: Network
+Title: VPN access issue
+Status: Closed
+Priority: Medium
+Created Date: 2025-11-30 20:39:17
+Updated Date: 2025-12-04 20:39:17
+Resolved Date: 2025-12-04 20:39:17
+Reported By: Emily Davis
+Department: Sales
+Assigned To: Help Desk
+Description
+User reported: VPN access issue. Additional details: DNS queries timing out. Local network connectivity confirmed.
+Additional Information
+Attachments: 0
+Comments: 3
+Tags: Network, Medium, Closed",,
+Network_Problem,ticket_08.json,JSON,"{
+  ""ticket_id"": ""TICK-NET-0008"",
+  ""ticket_type"": ""Network_Problem"",
+  ""category"": ""Network"",
+  ""title"": ""Cannot access shared drive"",
+  ""description"": ""User reported: Cannot access shared drive. Additional details: DNS queries timing out. Local network connectivity confirmed."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-11-22 20:39:17"",
+  ""updated_date"": ""2025-11-24 20:39:17"",
+  ""resolved_date"": ""2025-11-24 20:39:17"",
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""Engineering"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""Network"",
+    ""Medium"",
+    ""Resolved""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 1
+}",User reported: Cannot access shared drive. Additional details: DNS queries timing out. Local network connectivity confirmed.,CANNOT ACCESS SHARED DRIVE ADDITIONAL DETAILS DNS QUERIES TIMING LOCAL NETWORK CONNECTIVITY CONFIRMED
+Network_Problem,ticket_08.pdf,PDF,"IT Support Ticket: TICK-NET-0008
+Ticket Information
+Ticket ID: TICK-NET-0008
+Type: Network_Problem
+Category: Network
+Title: Cannot access shared drive
+Status: Resolved
+Priority: Medium
+Created Date: 2025-11-22 20:39:17
+Updated Date: 2025-11-24 20:39:17
+Resolved Date: 2025-11-24 20:39:17
+Reported By: Sarah Johnson
+Department: Engineering
+Assigned To: IT Support Team
+Description
+User reported: Cannot access shared drive. Additional details: DNS queries timing out. Local network connectivity
+confirmed.
+Additional Information
+Attachments: 3
+Comments: 1
+Tags: Network, Medium, Resolved",,
+Network_Problem,ticket_09.json,JSON,"{
+  ""ticket_id"": ""TICK-NET-0009"",
+  ""ticket_type"": ""Network_Problem"",
+  ""category"": ""Network"",
+  ""title"": ""Cannot access shared drive"",
+  ""description"": ""User reported: Cannot access shared drive. Additional details: Connection drops intermittently. Other devices on network working fine."",
+  ""status"": ""Closed"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-08 20:39:17"",
+  ""updated_date"": ""2025-12-09 20:39:17"",
+  ""resolved_date"": ""2025-12-09 20:39:17"",
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""Finance"",
+  ""assigned_to"": ""Help Desk"",
+  ""tags"": [
+    ""Network"",
+    ""High"",
+    ""Closed""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 0
+}",User reported: Cannot access shared drive. Additional details: Connection drops intermittently. Other devices on network working fine.,CANNOT ACCESS SHARED DRIVE ADDITIONAL DETAILS CONNECTION DROPS INTERMITTENTLY DEVICES NETWORK WORKING FINE
+Network_Problem,ticket_09.pdf,PDF,"IT Support Ticket: TICK-NET-0009
+Ticket Information
+Ticket ID: TICK-NET-0009
+Type: Network_Problem
+Category: Network
+Title: Cannot access shared drive
+Status: Closed
+Priority: High
+Created Date: 2025-12-08 20:39:17
+Updated Date: 2025-12-09 20:39:17
+Resolved Date: 2025-12-09 20:39:17
+Reported By: Sarah Johnson
+Department: Finance
+Assigned To: Help Desk
+Description
+User reported: Cannot access shared drive. Additional details: Connection drops intermittently. Other devices on
+network working fine.
+Additional Information
+Attachments: 3
+Comments: 0
+Tags: Network, High, Closed",,
+Network_Problem,ticket_10.json,JSON,"{
+  ""ticket_id"": ""TICK-NET-0010"",
+  ""ticket_type"": ""Network_Problem"",
+  ""category"": ""Network"",
+  ""title"": ""Network timeout"",
+  ""description"": ""User reported: Network timeout. Additional details: Cannot connect to corporate network. VPN client shows authentication error."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-12-14 20:39:17"",
+  ""updated_date"": ""2025-12-23 20:39:17"",
+  ""resolved_date"": ""2025-12-23 20:39:17"",
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Network"",
+    ""Low"",
+    ""Resolved""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 5
+}",User reported: Network timeout. Additional details: Cannot connect to corporate network. VPN client shows authentication error.,NETWORK TIMEOUT ADDITIONAL DETAILS CANNOT CONNECT CORPORATE NETWORK VPN CLIENT SHOWS AUTHENTICATION ERROR
+Network_Problem,ticket_10.pdf,PDF,"IT Support Ticket: TICK-NET-0010
+Ticket Information
+Ticket ID: TICK-NET-0010
+Type: Network_Problem
+Category: Network
+Title: Network timeout
+Status: Resolved
+Priority: Low
+Created Date: 2025-12-14 20:39:17
+Updated Date: 2025-12-23 20:39:17
+Resolved Date: 2025-12-23 20:39:17
+Reported By: Sarah Johnson
+Department: Support
+Assigned To: Network Admin
+Description
+User reported: Network timeout. Additional details: Cannot connect to corporate network. VPN client shows
+authentication error.
+Additional Information
+Attachments: 1
+Comments: 5
+Tags: Network, Low, Resolved",,
+Password_Reset,ticket_01.json,JSON,"{
+  ""ticket_id"": ""TICK-PAS-0001"",
+  ""ticket_type"": ""Password_Reset"",
+  ""category"": ""Access"",
+  ""title"": ""Password expired"",
+  ""description"": ""User reported: Password expired. Additional details: User forgot password after vacation. Security questions answered correctly."",
+  ""status"": ""Open"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-12-18 20:39:17"",
+  ""updated_date"": ""2025-12-19 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Lisa Anderson"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Access"",
+    ""Low"",
+    ""Open""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 1
+}",User reported: Password expired. Additional details: User forgot password after vacation. Security questions answered correctly.,PASSWORD EXPIRED ADDITIONAL DETAILS USER FORGOT PASSWORD VACATION SECURITY QUESTIONS ANSWERED CORRECTLY
+Password_Reset,ticket_01.pdf,PDF,"IT Support Ticket: TICK-PAS-0001
+Ticket Information
+Ticket ID: TICK-PAS-0001
+Type: Password_Reset
+Category: Access
+Title: Password expired
+Status: Open
+Priority: Low
+Created Date: 2025-12-18 20:39:17
+Updated Date: 2025-12-19 20:39:17
+Resolved Date: N/A
+Reported By: Lisa Anderson
+Department: HR
+Assigned To: Security Team
+Description
+User reported: Password expired. Additional details: User forgot password after vacation. Security questions answered
+correctly.
+Additional Information
+Attachments: 2
+Comments: 1
+Tags: Access, Low, Open",,
+Password_Reset,ticket_02.json,JSON,"{
+  ""ticket_id"": ""TICK-PAS-0002"",
+  ""ticket_type"": ""Password_Reset"",
+  ""category"": ""Access"",
+  ""title"": ""Account locked"",
+  ""description"": ""User reported: Account locked. Additional details: Password expired notification received. User unable to change password."",
+  ""status"": ""Resolved"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-11-29 20:39:17"",
+  ""updated_date"": ""2025-11-30 20:39:17"",
+  ""resolved_date"": ""2025-11-30 20:39:17"",
+  ""reported_by"": ""Robert Taylor"",
+  ""department"": ""Marketing"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Access"",
+    ""High"",
+    ""Resolved""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 1
+}",User reported: Account locked. Additional details: Password expired notification received. User unable to change password.,ACCOUNT LOCKED ADDITIONAL DETAILS PASSWORD EXPIRED NOTIFICATION RECEIVED USER UNABLE CHANGE PASSWORD
+Password_Reset,ticket_02.pdf,PDF,"IT Support Ticket: TICK-PAS-0002
+Ticket Information
+Ticket ID: TICK-PAS-0002
+Type: Password_Reset
+Category: Access
+Title: Account locked
+Status: Resolved
+Priority: High
+Created Date: 2025-11-29 20:39:17
+Updated Date: 2025-11-30 20:39:17
+Resolved Date: 2025-11-30 20:39:17
+Reported By: Robert Taylor
+Department: Marketing
+Assigned To: Network Admin
+Description
+User reported: Account locked. Additional details: Password expired notification received. User unable to change
+password.
+Additional Information
+Attachments: 0
+Comments: 1
+Tags: Access, High, Resolved",,
+Password_Reset,ticket_03.json,JSON,"{
+  ""ticket_id"": ""TICK-PAS-0003"",
+  ""ticket_type"": ""Password_Reset"",
+  ""category"": ""Access"",
+  ""title"": ""Password policy violation"",
+  ""description"": ""User reported: Password policy violation. Additional details: Account locked after 5 failed login attempts. User confirms correct password."",
+  ""status"": ""Closed"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-02 20:39:17"",
+  ""updated_date"": ""2025-12-09 20:39:17"",
+  ""resolved_date"": ""2025-12-09 20:39:17"",
+  ""reported_by"": ""Jennifer Martinez"",
+  ""department"": ""Sales"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Access"",
+    ""Medium"",
+    ""Closed""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 2
+}",User reported: Password policy violation. Additional details: Account locked after 5 failed login attempts. User confirms correct password.,PASSWORD POLICY VIOLATION ADDITIONAL DETAILS ACCOUNT LOCKED FAILED LOGIN ATTEMPTS USER CONFIRMS CORRECT PASSWORD
+Password_Reset,ticket_03.pdf,PDF,"IT Support Ticket: TICK-PAS-0003
+Ticket Information
+Ticket ID: TICK-PAS-0003
+Type: Password_Reset
+Category: Access
+Title: Password policy violation
+Status: Closed
+Priority: Medium
+Created Date: 2025-12-02 20:39:17
+Updated Date: 2025-12-09 20:39:17
+Resolved Date: 2025-12-09 20:39:17
+Reported By: Jennifer Martinez
+Department: Sales
+Assigned To: Network Admin
+Description
+User reported: Password policy violation. Additional details: Account locked after 5 failed login attempts. User confirms
+correct password.
+Additional Information
+Attachments: 0
+Comments: 2
+Tags: Access, Medium, Closed",,
+Password_Reset,ticket_04.json,JSON,"{
+  ""ticket_id"": ""TICK-PAS-0004"",
+  ""ticket_type"": ""Password_Reset"",
+  ""category"": ""Access"",
+  ""title"": ""Account locked"",
+  ""description"": ""User reported: Account locked. Additional details: Two-factor authentication not receiving codes. Phone number verified."",
+  ""status"": ""Closed"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-04 20:39:17"",
+  ""updated_date"": ""2025-12-04 20:39:17"",
+  ""resolved_date"": ""2025-12-04 20:39:17"",
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""Engineering"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Access"",
+    ""Medium"",
+    ""Closed""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 3
+}",User reported: Account locked. Additional details: Two-factor authentication not receiving codes. Phone number verified.,ACCOUNT LOCKED ADDITIONAL DETAILS TWO FACTOR AUTHENTICATION RECEIVING CODES PHONE NUMBER VERIFIED
+Password_Reset,ticket_04.pdf,PDF,"IT Support Ticket: TICK-PAS-0004
+Ticket Information
+Ticket ID: TICK-PAS-0004
+Type: Password_Reset
+Category: Access
+Title: Account locked
+Status: Closed
+Priority: Medium
+Created Date: 2025-12-04 20:39:17
+Updated Date: 2025-12-04 20:39:17
+Resolved Date: 2025-12-04 20:39:17
+Reported By: Emily Davis
+Department: Engineering
+Assigned To: Network Admin
+Description
+User reported: Account locked. Additional details: Two-factor authentication not receiving codes. Phone number verified.
+Additional Information
+Attachments: 0
+Comments: 3
+Tags: Access, Medium, Closed",,
+Password_Reset,ticket_05.json,JSON,"{
+  ""ticket_id"": ""TICK-PAS-0005"",
+  ""ticket_type"": ""Password_Reset"",
+  ""category"": ""Access"",
+  ""title"": ""SSO login failed"",
+  ""description"": ""User reported: SSO login failed. Additional details: Password expired notification received. User unable to change password."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-21 20:39:17"",
+  ""updated_date"": ""2025-12-31 20:39:17"",
+  ""resolved_date"": ""2025-12-31 20:39:17"",
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Access"",
+    ""Medium"",
+    ""Resolved""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 4
+}",User reported: SSO login failed. Additional details: Password expired notification received. User unable to change password.,SSO LOGIN FAILED ADDITIONAL DETAILS PASSWORD EXPIRED NOTIFICATION RECEIVED USER UNABLE CHANGE PASSWORD
+Password_Reset,ticket_05.pdf,PDF,"IT Support Ticket: TICK-PAS-0005
+Ticket Information
+Ticket ID: TICK-PAS-0005
+Type: Password_Reset
+Category: Access
+Title: SSO login failed
+Status: Resolved
+Priority: Medium
+Created Date: 2025-12-21 20:39:17
+Updated Date: 2025-12-31 20:39:17
+Resolved Date: 2025-12-31 20:39:17
+Reported By: Sarah Johnson
+Department: Support
+Assigned To: Security Team
+Description
+User reported: SSO login failed. Additional details: Password expired notification received. User unable to change
+password.
+Additional Information
+Attachments: 0
+Comments: 4
+Tags: Access, Medium, Resolved",,
+Password_Reset,ticket_06.json,JSON,"{
+  ""ticket_id"": ""TICK-PAS-0006"",
+  ""ticket_type"": ""Password_Reset"",
+  ""category"": ""Access"",
+  ""title"": ""Password expired"",
+  ""description"": ""User reported: Password expired. Additional details: Password expired notification received. User unable to change password."",
+  ""status"": ""Resolved"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-14 20:39:17"",
+  ""updated_date"": ""2025-12-22 20:39:17"",
+  ""resolved_date"": ""2025-12-22 20:39:17"",
+  ""reported_by"": ""John Smith"",
+  ""department"": ""Operations"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""Access"",
+    ""High"",
+    ""Resolved""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 4
+}",User reported: Password expired. Additional details: Password expired notification received. User unable to change password.,PASSWORD EXPIRED ADDITIONAL DETAILS PASSWORD EXPIRED NOTIFICATION RECEIVED USER UNABLE CHANGE PASSWORD
+Password_Reset,ticket_06.pdf,PDF,"IT Support Ticket: TICK-PAS-0006
+Ticket Information
+Ticket ID: TICK-PAS-0006
+Type: Password_Reset
+Category: Access
+Title: Password expired
+Status: Resolved
+Priority: High
+Created Date: 2025-12-14 20:39:17
+Updated Date: 2025-12-22 20:39:17
+Resolved Date: 2025-12-22 20:39:17
+Reported By: John Smith
+Department: Operations
+Assigned To: IT Support Team
+Description
+User reported: Password expired. Additional details: Password expired notification received. User unable to change
+password.
+Additional Information
+Attachments: 3
+Comments: 4
+Tags: Access, High, Resolved",,
+Password_Reset,ticket_07.json,JSON,"{
+  ""ticket_id"": ""TICK-PAS-0007"",
+  ""ticket_type"": ""Password_Reset"",
+  ""category"": ""Access"",
+  ""title"": ""Forgot password"",
+  ""description"": ""User reported: Forgot password. Additional details: Account locked after 5 failed login attempts. User confirms correct password."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-10 20:39:17"",
+  ""updated_date"": ""2025-12-20 20:39:17"",
+  ""resolved_date"": ""2025-12-20 20:39:17"",
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""IT"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""Access"",
+    ""Medium"",
+    ""Resolved""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 4
+}",User reported: Forgot password. Additional details: Account locked after 5 failed login attempts. User confirms correct password.,FORGOT PASSWORD ADDITIONAL DETAILS ACCOUNT LOCKED FAILED LOGIN ATTEMPTS USER CONFIRMS CORRECT PASSWORD
+Password_Reset,ticket_07.pdf,PDF,"IT Support Ticket: TICK-PAS-0007
+Ticket Information
+Ticket ID: TICK-PAS-0007
+Type: Password_Reset
+Category: Access
+Title: Forgot password
+Status: Resolved
+Priority: Medium
+Created Date: 2025-12-10 20:39:17
+Updated Date: 2025-12-20 20:39:17
+Resolved Date: 2025-12-20 20:39:17
+Reported By: Sarah Johnson
+Department: IT
+Assigned To: IT Support Team
+Description
+User reported: Forgot password. Additional details: Account locked after 5 failed login attempts. User confirms correct
+password.
+Additional Information
+Attachments: 1
+Comments: 4
+Tags: Access, Medium, Resolved",,
+Password_Reset,ticket_08.json,JSON,"{
+  ""ticket_id"": ""TICK-PAS-0008"",
+  ""ticket_type"": ""Password_Reset"",
+  ""category"": ""Access"",
+  ""title"": ""Cannot reset password"",
+  ""description"": ""User reported: Cannot reset password. Additional details: Two-factor authentication not receiving codes. Phone number verified."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-11 20:39:17"",
+  ""updated_date"": ""2025-12-14 20:39:17"",
+  ""resolved_date"": ""2025-12-14 20:39:17"",
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""IT"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Access"",
+    ""Medium"",
+    ""Resolved""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 2
+}",User reported: Cannot reset password. Additional details: Two-factor authentication not receiving codes. Phone number verified.,CANNOT RESET PASSWORD ADDITIONAL DETAILS TWO FACTOR AUTHENTICATION RECEIVING CODES PHONE NUMBER VERIFIED
+Password_Reset,ticket_08.pdf,PDF,"IT Support Ticket: TICK-PAS-0008
+Ticket Information
+Ticket ID: TICK-PAS-0008
+Type: Password_Reset
+Category: Access
+Title: Cannot reset password
+Status: Resolved
+Priority: Medium
+Created Date: 2025-12-11 20:39:17
+Updated Date: 2025-12-14 20:39:17
+Resolved Date: 2025-12-14 20:39:17
+Reported By: Emily Davis
+Department: IT
+Assigned To: System Admin
+Description
+User reported: Cannot reset password. Additional details: Two-factor authentication not receiving codes. Phone number
+verified.
+Additional Information
+Attachments: 0
+Comments: 2
+Tags: Access, Medium, Resolved",,
+Password_Reset,ticket_09.json,JSON,"{
+  ""ticket_id"": ""TICK-PAS-0009"",
+  ""ticket_type"": ""Password_Reset"",
+  ""category"": ""Access"",
+  ""title"": ""Account locked"",
+  ""description"": ""User reported: Account locked. Additional details: User forgot password after vacation. Security questions answered correctly."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-11-29 20:39:17"",
+  ""updated_date"": ""2025-12-09 20:39:17"",
+  ""resolved_date"": ""2025-12-09 20:39:17"",
+  ""reported_by"": ""John Smith"",
+  ""department"": ""IT"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Access"",
+    ""Low"",
+    ""Resolved""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 2
+}",User reported: Account locked. Additional details: User forgot password after vacation. Security questions answered correctly.,ACCOUNT LOCKED ADDITIONAL DETAILS USER FORGOT PASSWORD VACATION SECURITY QUESTIONS ANSWERED CORRECTLY
+Password_Reset,ticket_09.pdf,PDF,"IT Support Ticket: TICK-PAS-0009
+Ticket Information
+Ticket ID: TICK-PAS-0009
+Type: Password_Reset
+Category: Access
+Title: Account locked
+Status: Resolved
+Priority: Low
+Created Date: 2025-11-29 20:39:17
+Updated Date: 2025-12-09 20:39:17
+Resolved Date: 2025-12-09 20:39:17
+Reported By: John Smith
+Department: IT
+Assigned To: Security Team
+Description
+User reported: Account locked. Additional details: User forgot password after vacation. Security questions answered
+correctly.
+Additional Information
+Attachments: 2
+Comments: 2
+Tags: Access, Low, Resolved",,
+Password_Reset,ticket_10.json,JSON,"{
+  ""ticket_id"": ""TICK-PAS-0010"",
+  ""ticket_type"": ""Password_Reset"",
+  ""category"": ""Access"",
+  ""title"": ""Two-factor authentication issue"",
+  ""description"": ""User reported: Two-factor authentication issue. Additional details: Account locked after 5 failed login attempts. User confirms correct password."",
+  ""status"": ""Open"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-11-22 20:39:17"",
+  ""updated_date"": ""2025-12-02 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""John Smith"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""Help Desk"",
+  ""tags"": [
+    ""Access"",
+    ""Low"",
+    ""Open""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 3
+}",User reported: Two-factor authentication issue. Additional details: Account locked after 5 failed login attempts. User confirms correct password.,TWO FACTOR AUTHENTICATION ISSUE ADDITIONAL DETAILS ACCOUNT LOCKED FAILED LOGIN ATTEMPTS USER CONFIRMS CORRECT PASSWORD
+Password_Reset,ticket_10.pdf,PDF,"IT Support Ticket: TICK-PAS-0010
+Ticket Information
+Ticket ID: TICK-PAS-0010
+Type: Password_Reset
+Category: Access
+Title: Two-factor authentication issue
+Status: Open
+Priority: Low
+Created Date: 2025-11-22 20:39:17
+Updated Date: 2025-12-02 20:39:17
+Resolved Date: N/A
+Reported By: John Smith
+Department: Support
+Assigned To: Help Desk
+Description
+User reported: Two-factor authentication issue. Additional details: Account locked after 5 failed login attempts. User
+confirms correct password.
+Additional Information
+Attachments: 3
+Comments: 3
+Tags: Access, Low, Open",,
+Access_Request,ticket_01.json,JSON,"{
+  ""ticket_id"": ""TICK-ACC-0001"",
+  ""ticket_type"": ""Access_Request"",
+  ""category"": ""Access"",
+  ""title"": ""Application access request"",
+  ""description"": ""User reported: Application access request. Additional details: Project requires temporary access to restricted database for 3 months."",
+  ""status"": ""Pending"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-12-04 20:39:17"",
+  ""updated_date"": ""2025-12-14 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""Marketing"",
+  ""assigned_to"": ""Help Desk"",
+  ""tags"": [
+    ""Access"",
+    ""Low"",
+    ""Pending""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 3
+}",User reported: Application access request. Additional details: Project requires temporary access to restricted database for 3 months.,APPLICATION ACCESS REQUEST ADDITIONAL DETAILS PROJECT REQUIRES TEMPORARY ACCESS RESTRICTED DATABASE MONTHS
+Access_Request,ticket_01.pdf,PDF,"IT Support Ticket: TICK-ACC-0001
+Ticket Information
+Ticket ID: TICK-ACC-0001
+Type: Access_Request
+Category: Access
+Title: Application access request
+Status: Pending
+Priority: Low
+Created Date: 2025-12-04 20:39:17
+Updated Date: 2025-12-14 20:39:17
+Resolved Date: N/A
+Reported By: Sarah Johnson
+Department: Marketing
+Assigned To: Help Desk
+Description
+User reported: Application access request. Additional details: Project requires temporary access to restricted database
+for 3 months.
+Additional Information
+Attachments: 1
+Comments: 3
+Tags: Access, Low, Pending",,
+Access_Request,ticket_02.json,JSON,"{
+  ""ticket_id"": ""TICK-ACC-0002"",
+  ""ticket_type"": ""Access_Request"",
+  ""category"": ""Access"",
+  ""title"": ""Software license request"",
+  ""description"": ""User reported: Software license request. Additional details: Contractor needs VPN access and email account for 6-month engagement."",
+  ""status"": ""In Progress"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-18 20:39:17"",
+  ""updated_date"": ""2025-12-28 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""Marketing"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Access"",
+    ""High"",
+    ""In Progress""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 3
+}",User reported: Software license request. Additional details: Contractor needs VPN access and email account for 6-month engagement.,SOFTWARE LICENSE REQUEST ADDITIONAL DETAILS CONTRACTOR NEEDS VPN ACCESS EMAIL ACCOUNT MONTH ENGAGEMENT
+Access_Request,ticket_02.pdf,PDF,"IT Support Ticket: TICK-ACC-0002
+Ticket Information
+Ticket ID: TICK-ACC-0002
+Type: Access_Request
+Category: Access
+Title: Software license request
+Status: In Progress
+Priority: High
+Created Date: 2025-12-18 20:39:17
+Updated Date: 2025-12-28 20:39:17
+Resolved Date: N/A
+Reported By: Sarah Johnson
+Department: Marketing
+Assigned To: Network Admin
+Description
+User reported: Software license request. Additional details: Contractor needs VPN access and email account for
+6-month engagement.
+Additional Information
+Attachments: 0
+Comments: 3
+Tags: Access, High, In Progress",,
+Access_Request,ticket_03.json,JSON,"{
+  ""ticket_id"": ""TICK-ACC-0003"",
+  ""ticket_type"": ""Access_Request"",
+  ""category"": ""Access"",
+  ""title"": ""System admin rights"",
+  ""description"": ""User reported: System admin rights. Additional details: User promoted to new role requiring additional system permissions."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-12-12 20:39:17"",
+  ""updated_date"": ""2025-12-19 20:39:17"",
+  ""resolved_date"": ""2025-12-19 20:39:17"",
+  ""reported_by"": ""Michael Brown"",
+  ""department"": ""IT"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Access"",
+    ""Low"",
+    ""Resolved""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 1
+}",User reported: System admin rights. Additional details: User promoted to new role requiring additional system permissions.,SYSTEM ADMIN RIGHTS ADDITIONAL DETAILS USER PROMOTED NEW ROLE REQUIRING ADDITIONAL SYSTEM PERMISSIONS
+Access_Request,ticket_03.pdf,PDF,"IT Support Ticket: TICK-ACC-0003
+Ticket Information
+Ticket ID: TICK-ACC-0003
+Type: Access_Request
+Category: Access
+Title: System admin rights
+Status: Resolved
+Priority: Low
+Created Date: 2025-12-12 20:39:17
+Updated Date: 2025-12-19 20:39:17
+Resolved Date: 2025-12-19 20:39:17
+Reported By: Michael Brown
+Department: IT
+Assigned To: System Admin
+Description
+User reported: System admin rights. Additional details: User promoted to new role requiring additional system
+permissions.
+Additional Information
+Attachments: 2
+Comments: 1
+Tags: Access, Low, Resolved",,
+Access_Request,ticket_04.json,JSON,"{
+  ""ticket_id"": ""TICK-ACC-0004"",
+  ""ticket_type"": ""Access_Request"",
+  ""category"": ""Access"",
+  ""title"": ""System admin rights"",
+  ""description"": ""User reported: System admin rights. Additional details: Project requires temporary access to restricted database for 3 months."",
+  ""status"": ""Pending"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-11 20:39:17"",
+  ""updated_date"": ""2025-12-11 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""Operations"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Access"",
+    ""High"",
+    ""Pending""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 4
+}",User reported: System admin rights. Additional details: Project requires temporary access to restricted database for 3 months.,SYSTEM ADMIN RIGHTS ADDITIONAL DETAILS PROJECT REQUIRES TEMPORARY ACCESS RESTRICTED DATABASE MONTHS
+Access_Request,ticket_04.pdf,PDF,"IT Support Ticket: TICK-ACC-0004
+Ticket Information
+Ticket ID: TICK-ACC-0004
+Type: Access_Request
+Category: Access
+Title: System admin rights
+Status: Pending
+Priority: High
+Created Date: 2025-12-11 20:39:17
+Updated Date: 2025-12-11 20:39:17
+Resolved Date: N/A
+Reported By: Sarah Johnson
+Department: Operations
+Assigned To: Security Team
+Description
+User reported: System admin rights. Additional details: Project requires temporary access to restricted database for 3
+months.
+Additional Information
+Attachments: 0
+Comments: 4
+Tags: Access, High, Pending",,
+Access_Request,ticket_05.json,JSON,"{
+  ""ticket_id"": ""TICK-ACC-0005"",
+  ""ticket_type"": ""Access_Request"",
+  ""category"": ""Access"",
+  ""title"": ""Server access needed"",
+  ""description"": ""User reported: Server access needed. Additional details: Project requires temporary access to restricted database for 3 months."",
+  ""status"": ""In Progress"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-11-24 20:39:17"",
+  ""updated_date"": ""2025-11-26 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Robert Taylor"",
+  ""department"": ""Finance"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Access"",
+    ""Low"",
+    ""In Progress""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 1
+}",User reported: Server access needed. Additional details: Project requires temporary access to restricted database for 3 months.,SERVER ACCESS NEEDED ADDITIONAL DETAILS PROJECT REQUIRES TEMPORARY ACCESS RESTRICTED DATABASE MONTHS
+Access_Request,ticket_05.pdf,PDF,"IT Support Ticket: TICK-ACC-0005
+Ticket Information
+Ticket ID: TICK-ACC-0005
+Type: Access_Request
+Category: Access
+Title: Server access needed
+Status: In Progress
+Priority: Low
+Created Date: 2025-11-24 20:39:17
+Updated Date: 2025-11-26 20:39:17
+Resolved Date: N/A
+Reported By: Robert Taylor
+Department: Finance
+Assigned To: System Admin
+Description
+User reported: Server access needed. Additional details: Project requires temporary access to restricted database for 3
+months.
+Additional Information
+Attachments: 0
+Comments: 1
+Tags: Access, Low, In Progress",,
+Access_Request,ticket_06.json,JSON,"{
+  ""ticket_id"": ""TICK-ACC-0006"",
+  ""ticket_type"": ""Access_Request"",
+  ""category"": ""Access"",
+  ""title"": ""Software license request"",
+  ""description"": ""User reported: Software license request. Additional details: User promoted to new role requiring additional system permissions."",
+  ""status"": ""Closed"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-22 20:39:17"",
+  ""updated_date"": ""2025-12-28 20:39:17"",
+  ""resolved_date"": ""2025-12-28 20:39:17"",
+  ""reported_by"": ""Jennifer Martinez"",
+  ""department"": ""Finance"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Access"",
+    ""Medium"",
+    ""Closed""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 3
+}",User reported: Software license request. Additional details: User promoted to new role requiring additional system permissions.,SOFTWARE LICENSE REQUEST ADDITIONAL DETAILS USER PROMOTED NEW ROLE REQUIRING ADDITIONAL SYSTEM PERMISSIONS
+Access_Request,ticket_06.pdf,PDF,"IT Support Ticket: TICK-ACC-0006
+Ticket Information
+Ticket ID: TICK-ACC-0006
+Type: Access_Request
+Category: Access
+Title: Software license request
+Status: Closed
+Priority: Medium
+Created Date: 2025-12-22 20:39:17
+Updated Date: 2025-12-28 20:39:17
+Resolved Date: 2025-12-28 20:39:17
+Reported By: Jennifer Martinez
+Department: Finance
+Assigned To: Security Team
+Description
+User reported: Software license request. Additional details: User promoted to new role requiring additional system
+permissions.
+Additional Information
+Attachments: 3
+Comments: 3
+Tags: Access, Medium, Closed",,
+Access_Request,ticket_07.json,JSON,"{
+  ""ticket_id"": ""TICK-ACC-0007"",
+  ""ticket_type"": ""Access_Request"",
+  ""category"": ""Access"",
+  ""title"": ""System admin rights"",
+  ""description"": ""User reported: System admin rights. Additional details: Project requires temporary access to restricted database for 3 months."",
+  ""status"": ""Closed"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-12-16 20:39:17"",
+  ""updated_date"": ""2025-12-22 20:39:17"",
+  ""resolved_date"": ""2025-12-22 20:39:17"",
+  ""reported_by"": ""David Wilson"",
+  ""department"": ""Finance"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Access"",
+    ""Low"",
+    ""Closed""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 0
+}",User reported: System admin rights. Additional details: Project requires temporary access to restricted database for 3 months.,SYSTEM ADMIN RIGHTS ADDITIONAL DETAILS PROJECT REQUIRES TEMPORARY ACCESS RESTRICTED DATABASE MONTHS
+Access_Request,ticket_07.pdf,PDF,"IT Support Ticket: TICK-ACC-0007
+Ticket Information
+Ticket ID: TICK-ACC-0007
+Type: Access_Request
+Category: Access
+Title: System admin rights
+Status: Closed
+Priority: Low
+Created Date: 2025-12-16 20:39:17
+Updated Date: 2025-12-22 20:39:17
+Resolved Date: 2025-12-22 20:39:17
+Reported By: David Wilson
+Department: Finance
+Assigned To: Security Team
+Description
+User reported: System admin rights. Additional details: Project requires temporary access to restricted database for 3
+months.
+Additional Information
+Attachments: 2
+Comments: 0
+Tags: Access, Low, Closed",,
+Access_Request,ticket_08.json,JSON,"{
+  ""ticket_id"": ""TICK-ACC-0008"",
+  ""ticket_type"": ""Access_Request"",
+  ""category"": ""Access"",
+  ""title"": ""Folder permissions"",
+  ""description"": ""User reported: Folder permissions. Additional details: Contractor needs VPN access and email account for 6-month engagement."",
+  ""status"": ""Open"",
+  ""priority"": ""Low"",
+  ""created_date"": ""2025-11-22 20:39:17"",
+  ""updated_date"": ""2025-12-01 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""David Wilson"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Access"",
+    ""Low"",
+    ""Open""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 5
+}",User reported: Folder permissions. Additional details: Contractor needs VPN access and email account for 6-month engagement.,FOLDER PERMISSIONS ADDITIONAL DETAILS CONTRACTOR NEEDS VPN ACCESS EMAIL ACCOUNT MONTH ENGAGEMENT
+Access_Request,ticket_08.pdf,PDF,"IT Support Ticket: TICK-ACC-0008
+Ticket Information
+Ticket ID: TICK-ACC-0008
+Type: Access_Request
+Category: Access
+Title: Folder permissions
+Status: Open
+Priority: Low
+Created Date: 2025-11-22 20:39:17
+Updated Date: 2025-12-01 20:39:17
+Resolved Date: N/A
+Reported By: David Wilson
+Department: Support
+Assigned To: Security Team
+Description
+User reported: Folder permissions. Additional details: Contractor needs VPN access and email account for 6-month
+engagement.
+Additional Information
+Attachments: 1
+Comments: 5
+Tags: Access, Low, Open",,
+Access_Request,ticket_09.json,JSON,"{
+  ""ticket_id"": ""TICK-ACC-0009"",
+  ""ticket_type"": ""Access_Request"",
+  ""category"": ""Access"",
+  ""title"": ""VPN access request"",
+  ""description"": ""User reported: VPN access request. Additional details: Contractor needs VPN access and email account for 6-month engagement."",
+  ""status"": ""Closed"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-06 20:39:17"",
+  ""updated_date"": ""2025-12-06 20:39:17"",
+  ""resolved_date"": ""2025-12-06 20:39:17"",
+  ""reported_by"": ""David Wilson"",
+  ""department"": ""Finance"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Access"",
+    ""Medium"",
+    ""Closed""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 1
+}",User reported: VPN access request. Additional details: Contractor needs VPN access and email account for 6-month engagement.,VPN ACCESS REQUEST ADDITIONAL DETAILS CONTRACTOR NEEDS VPN ACCESS EMAIL ACCOUNT MONTH ENGAGEMENT
+Access_Request,ticket_09.pdf,PDF,"IT Support Ticket: TICK-ACC-0009
+Ticket Information
+Ticket ID: TICK-ACC-0009
+Type: Access_Request
+Category: Access
+Title: VPN access request
+Status: Closed
+Priority: Medium
+Created Date: 2025-12-06 20:39:17
+Updated Date: 2025-12-06 20:39:17
+Resolved Date: 2025-12-06 20:39:17
+Reported By: David Wilson
+Department: Finance
+Assigned To: System Admin
+Description
+User reported: VPN access request. Additional details: Contractor needs VPN access and email account for 6-month
+engagement.
+Additional Information
+Attachments: 2
+Comments: 1
+Tags: Access, Medium, Closed",,
+Access_Request,ticket_10.json,JSON,"{
+  ""ticket_id"": ""TICK-ACC-0010"",
+  ""ticket_type"": ""Access_Request"",
+  ""category"": ""Access"",
+  ""title"": ""Email account creation"",
+  ""description"": ""User reported: Email account creation. Additional details: Contractor needs VPN access and email account for 6-month engagement."",
+  ""status"": ""In Progress"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-14 20:39:17"",
+  ""updated_date"": ""2025-12-22 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Robert Taylor"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Access"",
+    ""Medium"",
+    ""In Progress""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 5
+}",User reported: Email account creation. Additional details: Contractor needs VPN access and email account for 6-month engagement.,EMAIL ACCOUNT CREATION ADDITIONAL DETAILS CONTRACTOR NEEDS VPN ACCESS EMAIL ACCOUNT MONTH ENGAGEMENT
+Access_Request,ticket_10.pdf,PDF,"IT Support Ticket: TICK-ACC-0010
+Ticket Information
+Ticket ID: TICK-ACC-0010
+Type: Access_Request
+Category: Access
+Title: Email account creation
+Status: In Progress
+Priority: Medium
+Created Date: 2025-12-14 20:39:17
+Updated Date: 2025-12-22 20:39:17
+Resolved Date: N/A
+Reported By: Robert Taylor
+Department: HR
+Assigned To: System Admin
+Description
+User reported: Email account creation. Additional details: Contractor needs VPN access and email account for 6-month
+engagement.
+Additional Information
+Attachments: 3
+Comments: 5
+Tags: Access, Medium, In Progress",,
+System_Error,ticket_01.json,JSON,"{
+  ""ticket_id"": ""TICK-SYS-0001"",
+  ""ticket_type"": ""System_Error"",
+  ""category"": ""System"",
+  ""title"": ""Disk space full"",
+  ""description"": ""User reported: Disk space full. Additional details: Server unresponsive. Health checks failing. Last backup successful yesterday."",
+  ""status"": ""Closed"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-18 20:39:17"",
+  ""updated_date"": ""2025-12-28 20:39:17"",
+  ""resolved_date"": ""2025-12-28 20:39:17"",
+  ""reported_by"": ""John Smith"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""System"",
+    ""High"",
+    ""Closed""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 5
+}",User reported: Disk space full. Additional details: Server unresponsive. Health checks failing. Last backup successful yesterday.,DISK SPACE FULL ADDITIONAL DETAILS SERVER UNRESPONSIVE HEALTH CHECKS FAILING LAST BACKUP SUCCESSFUL YESTERDAY
+System_Error,ticket_01.pdf,PDF,"IT Support Ticket: TICK-SYS-0001
+Ticket Information
+Ticket ID: TICK-SYS-0001
+Type: System_Error
+Category: System
+Title: Disk space full
+Status: Closed
+Priority: High
+Created Date: 2025-12-18 20:39:17
+Updated Date: 2025-12-28 20:39:17
+Resolved Date: 2025-12-28 20:39:17
+Reported By: John Smith
+Department: Support
+Assigned To: IT Support Team
+Description
+User reported: Disk space full. Additional details: Server unresponsive. Health checks failing. Last backup successful
+yesterday.
+Additional Information
+Attachments: 2
+Comments: 5
+Tags: System, High, Closed",,
+System_Error,ticket_02.json,JSON,"{
+  ""ticket_id"": ""TICK-SYS-0002"",
+  ""ticket_type"": ""System_Error"",
+  ""category"": ""System"",
+  ""title"": ""System update error"",
+  ""description"": ""User reported: System update error. Additional details: Server unresponsive. Health checks failing. Last backup successful yesterday."",
+  ""status"": ""Closed"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-04 20:39:17"",
+  ""updated_date"": ""2025-12-10 20:39:17"",
+  ""resolved_date"": ""2025-12-10 20:39:17"",
+  ""reported_by"": ""David Wilson"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""System"",
+    ""High"",
+    ""Closed""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 3
+}",User reported: System update error. Additional details: Server unresponsive. Health checks failing. Last backup successful yesterday.,SYSTEM UPDATE ERROR ADDITIONAL DETAILS SERVER UNRESPONSIVE HEALTH CHECKS FAILING LAST BACKUP SUCCESSFUL YESTERDAY
+System_Error,ticket_02.pdf,PDF,"IT Support Ticket: TICK-SYS-0002
+Ticket Information
+Ticket ID: TICK-SYS-0002
+Type: System_Error
+Category: System
+Title: System update error
+Status: Closed
+Priority: High
+Created Date: 2025-12-04 20:39:17
+Updated Date: 2025-12-10 20:39:17
+Resolved Date: 2025-12-10 20:39:17
+Reported By: David Wilson
+Department: Support
+Assigned To: System Admin
+Description
+User reported: System update error. Additional details: Server unresponsive. Health checks failing. Last backup
+successful yesterday.
+Additional Information
+Attachments: 1
+Comments: 3
+Tags: System, High, Closed",,
+System_Error,ticket_03.json,JSON,"{
+  ""ticket_id"": ""TICK-SYS-0003"",
+  ""ticket_type"": ""System_Error"",
+  ""category"": ""System"",
+  ""title"": ""Database connection error"",
+  ""description"": ""User reported: Database connection error. Additional details: Database connection pool exhausted. Application logs show timeout errors."",
+  ""status"": ""Closed"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-11-22 20:39:17"",
+  ""updated_date"": ""2025-11-24 20:39:17"",
+  ""resolved_date"": ""2025-11-24 20:39:17"",
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""Operations"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""System"",
+    ""Medium"",
+    ""Closed""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 1
+}",User reported: Database connection error. Additional details: Database connection pool exhausted. Application logs show timeout errors.,DATABASE CONNECTION ERROR ADDITIONAL DETAILS DATABASE CONNECTION POOL EXHAUSTED APPLICATION LOGS SHOW TIMEOUT ERRORS
+System_Error,ticket_03.pdf,PDF,"IT Support Ticket: TICK-SYS-0003
+Ticket Information
+Ticket ID: TICK-SYS-0003
+Type: System_Error
+Category: System
+Title: Database connection error
+Status: Closed
+Priority: Medium
+Created Date: 2025-11-22 20:39:17
+Updated Date: 2025-11-24 20:39:17
+Resolved Date: 2025-11-24 20:39:17
+Reported By: Sarah Johnson
+Department: Operations
+Assigned To: Security Team
+Description
+User reported: Database connection error. Additional details: Database connection pool exhausted. Application logs
+show timeout errors.
+Additional Information
+Attachments: 0
+Comments: 1
+Tags: System, Medium, Closed",,
+System_Error,ticket_04.json,JSON,"{
+  ""ticket_id"": ""TICK-SYS-0004"",
+  ""ticket_type"": ""System_Error"",
+  ""category"": ""System"",
+  ""title"": ""Service not running"",
+  ""description"": ""User reported: Service not running. Additional details: Database connection pool exhausted. Application logs show timeout errors."",
+  ""status"": ""In Progress"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-12-02 20:39:17"",
+  ""updated_date"": ""2025-12-02 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""David Wilson"",
+  ""department"": ""Finance"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""System"",
+    ""Critical"",
+    ""In Progress""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 5
+}",User reported: Service not running. Additional details: Database connection pool exhausted. Application logs show timeout errors.,SERVICE RUNNING ADDITIONAL DETAILS DATABASE CONNECTION POOL EXHAUSTED APPLICATION LOGS SHOW TIMEOUT ERRORS
+System_Error,ticket_04.pdf,PDF,"IT Support Ticket: TICK-SYS-0004
+Ticket Information
+Ticket ID: TICK-SYS-0004
+Type: System_Error
+Category: System
+Title: Service not running
+Status: In Progress
+Priority: Critical
+Created Date: 2025-12-02 20:39:17
+Updated Date: 2025-12-02 20:39:17
+Resolved Date: N/A
+Reported By: David Wilson
+Department: Finance
+Assigned To: IT Support Team
+Description
+User reported: Service not running. Additional details: Database connection pool exhausted. Application logs show
+timeout errors.
+Additional Information
+Attachments: 0
+Comments: 5
+Tags: System, Critical, In Progress",,
+System_Error,ticket_05.json,JSON,"{
+  ""ticket_id"": ""TICK-SYS-0005"",
+  ""ticket_type"": ""System_Error"",
+  ""category"": ""System"",
+  ""title"": ""Configuration corrupted"",
+  ""description"": ""User reported: Configuration corrupted. Additional details: Database connection pool exhausted. Application logs show timeout errors."",
+  ""status"": ""Open"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-11-27 20:39:17"",
+  ""updated_date"": ""2025-12-02 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Jennifer Martinez"",
+  ""department"": ""Engineering"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""System"",
+    ""Critical"",
+    ""Open""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 3
+}",User reported: Configuration corrupted. Additional details: Database connection pool exhausted. Application logs show timeout errors.,CONFIGURATION CORRUPTED ADDITIONAL DETAILS DATABASE CONNECTION POOL EXHAUSTED APPLICATION LOGS SHOW TIMEOUT ERRORS
+System_Error,ticket_05.pdf,PDF,"IT Support Ticket: TICK-SYS-0005
+Ticket Information
+Ticket ID: TICK-SYS-0005
+Type: System_Error
+Category: System
+Title: Configuration corrupted
+Status: Open
+Priority: Critical
+Created Date: 2025-11-27 20:39:17
+Updated Date: 2025-12-02 20:39:17
+Resolved Date: N/A
+Reported By: Jennifer Martinez
+Department: Engineering
+Assigned To: System Admin
+Description
+User reported: Configuration corrupted. Additional details: Database connection pool exhausted. Application logs show
+timeout errors.
+Additional Information
+Attachments: 3
+Comments: 3
+Tags: System, Critical, Open",,
+System_Error,ticket_06.json,JSON,"{
+  ""ticket_id"": ""TICK-SYS-0006"",
+  ""ticket_type"": ""System_Error"",
+  ""category"": ""System"",
+  ""title"": ""Service not running"",
+  ""description"": ""User reported: Service not running. Additional details: Database connection pool exhausted. Application logs show timeout errors."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-15 20:39:17"",
+  ""updated_date"": ""2025-12-18 20:39:17"",
+  ""resolved_date"": ""2025-12-18 20:39:17"",
+  ""reported_by"": ""Lisa Anderson"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""System"",
+    ""Medium"",
+    ""Resolved""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 4
+}",User reported: Service not running. Additional details: Database connection pool exhausted. Application logs show timeout errors.,SERVICE RUNNING ADDITIONAL DETAILS DATABASE CONNECTION POOL EXHAUSTED APPLICATION LOGS SHOW TIMEOUT ERRORS
+System_Error,ticket_06.pdf,PDF,"IT Support Ticket: TICK-SYS-0006
+Ticket Information
+Ticket ID: TICK-SYS-0006
+Type: System_Error
+Category: System
+Title: Service not running
+Status: Resolved
+Priority: Medium
+Created Date: 2025-12-15 20:39:17
+Updated Date: 2025-12-18 20:39:17
+Resolved Date: 2025-12-18 20:39:17
+Reported By: Lisa Anderson
+Department: HR
+Assigned To: System Admin
+Description
+User reported: Service not running. Additional details: Database connection pool exhausted. Application logs show
+timeout errors.
+Additional Information
+Attachments: 1
+Comments: 4
+Tags: System, Medium, Resolved",,
+System_Error,ticket_07.json,JSON,"{
+  ""ticket_id"": ""TICK-SYS-0007"",
+  ""ticket_type"": ""System_Error"",
+  ""category"": ""System"",
+  ""title"": ""Backup failed"",
+  ""description"": ""User reported: Backup failed. Additional details: Database connection pool exhausted. Application logs show timeout errors."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-11-30 20:39:17"",
+  ""updated_date"": ""2025-12-01 20:39:17"",
+  ""resolved_date"": ""2025-12-01 20:39:17"",
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""Sales"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""System"",
+    ""Medium"",
+    ""Resolved""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 5
+}",User reported: Backup failed. Additional details: Database connection pool exhausted. Application logs show timeout errors.,BACKUP FAILED ADDITIONAL DETAILS DATABASE CONNECTION POOL EXHAUSTED APPLICATION LOGS SHOW TIMEOUT ERRORS
+System_Error,ticket_07.pdf,PDF,"IT Support Ticket: TICK-SYS-0007
+Ticket Information
+Ticket ID: TICK-SYS-0007
+Type: System_Error
+Category: System
+Title: Backup failed
+Status: Resolved
+Priority: Medium
+Created Date: 2025-11-30 20:39:17
+Updated Date: 2025-12-01 20:39:17
+Resolved Date: 2025-12-01 20:39:17
+Reported By: Sarah Johnson
+Department: Sales
+Assigned To: IT Support Team
+Description
+User reported: Backup failed. Additional details: Database connection pool exhausted. Application logs show timeout
+errors.
+Additional Information
+Attachments: 3
+Comments: 5
+Tags: System, Medium, Resolved",,
+System_Error,ticket_08.json,JSON,"{
+  ""ticket_id"": ""TICK-SYS-0008"",
+  ""ticket_type"": ""System_Error"",
+  ""category"": ""System"",
+  ""title"": ""Configuration corrupted"",
+  ""description"": ""User reported: Configuration corrupted. Additional details: Disk usage at 98%. Cleanup scripts failed. Manual intervention required."",
+  ""status"": ""Pending"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-11-30 20:39:17"",
+  ""updated_date"": ""2025-12-07 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""David Wilson"",
+  ""department"": ""Finance"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""System"",
+    ""High"",
+    ""Pending""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 3
+}",User reported: Configuration corrupted. Additional details: Disk usage at 98%. Cleanup scripts failed. Manual intervention required.,CONFIGURATION CORRUPTED ADDITIONAL DETAILS DISK USAGE CLEANUP SCRIPTS FAILED MANUAL INTERVENTION REQUIRED
+System_Error,ticket_08.pdf,PDF,"IT Support Ticket: TICK-SYS-0008
+Ticket Information
+Ticket ID: TICK-SYS-0008
+Type: System_Error
+Category: System
+Title: Configuration corrupted
+Status: Pending
+Priority: High
+Created Date: 2025-11-30 20:39:17
+Updated Date: 2025-12-07 20:39:17
+Resolved Date: N/A
+Reported By: David Wilson
+Department: Finance
+Assigned To: IT Support Team
+Description
+User reported: Configuration corrupted. Additional details: Disk usage at 98%. Cleanup scripts failed. Manual
+intervention required.
+Additional Information
+Attachments: 1
+Comments: 3
+Tags: System, High, Pending",,
+System_Error,ticket_09.json,JSON,"{
+  ""ticket_id"": ""TICK-SYS-0009"",
+  ""ticket_type"": ""System_Error"",
+  ""category"": ""System"",
+  ""title"": ""Configuration corrupted"",
+  ""description"": ""User reported: Configuration corrupted. Additional details: Disk usage at 98%. Cleanup scripts failed. Manual intervention required."",
+  ""status"": ""Closed"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-19 20:39:17"",
+  ""updated_date"": ""2025-12-21 20:39:17"",
+  ""resolved_date"": ""2025-12-21 20:39:17"",
+  ""reported_by"": ""Jennifer Martinez"",
+  ""department"": ""Sales"",
+  ""assigned_to"": ""Help Desk"",
+  ""tags"": [
+    ""System"",
+    ""High"",
+    ""Closed""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 5
+}",User reported: Configuration corrupted. Additional details: Disk usage at 98%. Cleanup scripts failed. Manual intervention required.,CONFIGURATION CORRUPTED ADDITIONAL DETAILS DISK USAGE CLEANUP SCRIPTS FAILED MANUAL INTERVENTION REQUIRED
+System_Error,ticket_09.pdf,PDF,"IT Support Ticket: TICK-SYS-0009
+Ticket Information
+Ticket ID: TICK-SYS-0009
+Type: System_Error
+Category: System
+Title: Configuration corrupted
+Status: Closed
+Priority: High
+Created Date: 2025-12-19 20:39:17
+Updated Date: 2025-12-21 20:39:17
+Resolved Date: 2025-12-21 20:39:17
+Reported By: Jennifer Martinez
+Department: Sales
+Assigned To: Help Desk
+Description
+User reported: Configuration corrupted. Additional details: Disk usage at 98%. Cleanup scripts failed. Manual
+intervention required.
+Additional Information
+Attachments: 1
+Comments: 5
+Tags: System, High, Closed",,
+System_Error,ticket_10.json,JSON,"{
+  ""ticket_id"": ""TICK-SYS-0010"",
+  ""ticket_type"": ""System_Error"",
+  ""category"": ""System"",
+  ""title"": ""System update error"",
+  ""description"": ""User reported: System update error. Additional details: System crash occurred during peak hours. Blue screen error code: 0x0000007E."",
+  ""status"": ""Pending"",
+  ""priority"": ""Medium"",
+  ""created_date"": ""2025-12-18 20:39:17"",
+  ""updated_date"": ""2025-12-22 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Michael Brown"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""System"",
+    ""Medium"",
+    ""Pending""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 0
+}",User reported: System update error. Additional details: System crash occurred during peak hours. Blue screen error code: 0x0000007E.,SYSTEM UPDATE ERROR ADDITIONAL DETAILS SYSTEM CRASH OCCURRED PEAK HOURS BLUE SCREEN ERROR CODE X E
+System_Error,ticket_10.pdf,PDF,"IT Support Ticket: TICK-SYS-0010
+Ticket Information
+Ticket ID: TICK-SYS-0010
+Type: System_Error
+Category: System
+Title: System update error
+Status: Pending
+Priority: Medium
+Created Date: 2025-12-18 20:39:17
+Updated Date: 2025-12-22 20:39:17
+Resolved Date: N/A
+Reported By: Michael Brown
+Department: HR
+Assigned To: System Admin
+Description
+User reported: System update error. Additional details: System crash occurred during peak hours. Blue screen error
+code: 0x0000007E.
+Additional Information
+Attachments: 2
+Comments: 0
+Tags: System, Medium, Pending",,
+Security_Incident,ticket_01.json,JSON,"{
+  ""ticket_id"": ""TICK-SEC-0001"",
+  ""ticket_type"": ""Security_Incident"",
+  ""category"": ""Security"",
+  ""title"": ""Data breach suspected"",
+  ""description"": ""User reported: Data breach suspected. Additional details: Antivirus detected suspicious file. File quarantined. User notified."",
+  ""status"": ""Open"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-12-09 20:39:17"",
+  ""updated_date"": ""2025-12-09 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""John Smith"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Security"",
+    ""Critical"",
+    ""Open""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 4
+}",User reported: Data breach suspected. Additional details: Antivirus detected suspicious file. File quarantined. User notified.,DATA BREACH SUSPECTED ADDITIONAL DETAILS ANTIVIRUS DETECTED SUSPICIOUS FILE FILE QUARANTINED USER NOTIFIED
+Security_Incident,ticket_01.pdf,PDF,"IT Support Ticket: TICK-SEC-0001
+Ticket Information
+Ticket ID: TICK-SEC-0001
+Type: Security_Incident
+Category: Security
+Title: Data breach suspected
+Status: Open
+Priority: Critical
+Created Date: 2025-12-09 20:39:17
+Updated Date: 2025-12-09 20:39:17
+Resolved Date: N/A
+Reported By: John Smith
+Department: HR
+Assigned To: System Admin
+Description
+User reported: Data breach suspected. Additional details: Antivirus detected suspicious file. File quarantined. User
+notified.
+Additional Information
+Attachments: 3
+Comments: 4
+Tags: Security, Critical, Open",,
+Security_Incident,ticket_02.json,JSON,"{
+  ""ticket_id"": ""TICK-SEC-0002"",
+  ""ticket_type"": ""Security_Incident"",
+  ""category"": ""Security"",
+  ""title"": ""Firewall alert"",
+  ""description"": ""User reported: Firewall alert. Additional details: Antivirus detected suspicious file. File quarantined. User notified."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-12-18 20:39:17"",
+  ""updated_date"": ""2025-12-18 20:39:17"",
+  ""resolved_date"": ""2025-12-18 20:39:17"",
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""Engineering"",
+  ""assigned_to"": ""Help Desk"",
+  ""tags"": [
+    ""Security"",
+    ""Critical"",
+    ""Resolved""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 0
+}",User reported: Firewall alert. Additional details: Antivirus detected suspicious file. File quarantined. User notified.,FIREWALL ALERT ADDITIONAL DETAILS ANTIVIRUS DETECTED SUSPICIOUS FILE FILE QUARANTINED USER NOTIFIED
+Security_Incident,ticket_02.pdf,PDF,"IT Support Ticket: TICK-SEC-0002
+Ticket Information
+Ticket ID: TICK-SEC-0002
+Type: Security_Incident
+Category: Security
+Title: Firewall alert
+Status: Resolved
+Priority: Critical
+Created Date: 2025-12-18 20:39:17
+Updated Date: 2025-12-18 20:39:17
+Resolved Date: 2025-12-18 20:39:17
+Reported By: Emily Davis
+Department: Engineering
+Assigned To: Help Desk
+Description
+User reported: Firewall alert. Additional details: Antivirus detected suspicious file. File quarantined. User notified.
+Additional Information
+Attachments: 2
+Comments: 0
+Tags: Security, Critical, Resolved",,
+Security_Incident,ticket_03.json,JSON,"{
+  ""ticket_id"": ""TICK-SEC-0003"",
+  ""ticket_type"": ""Security_Incident"",
+  ""category"": ""Security"",
+  ""title"": ""Account compromised"",
+  ""description"": ""User reported: Account compromised. Additional details: Failed login attempts from unknown IP addresses. Account temporarily locked."",
+  ""status"": ""Pending"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-12-17 20:39:17"",
+  ""updated_date"": ""2025-12-27 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Emily Davis"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""Security"",
+    ""Critical"",
+    ""Pending""
+  ],
+  ""attachments"": 2,
+  ""comments_count"": 4
+}",User reported: Account compromised. Additional details: Failed login attempts from unknown IP addresses. Account temporarily locked.,ACCOUNT COMPROMISED ADDITIONAL DETAILS FAILED LOGIN ATTEMPTS UNKNOWN IP ADDRESSES ACCOUNT TEMPORARILY LOCKED
+Security_Incident,ticket_03.pdf,PDF,"IT Support Ticket: TICK-SEC-0003
+Ticket Information
+Ticket ID: TICK-SEC-0003
+Type: Security_Incident
+Category: Security
+Title: Account compromised
+Status: Pending
+Priority: Critical
+Created Date: 2025-12-17 20:39:17
+Updated Date: 2025-12-27 20:39:17
+Resolved Date: N/A
+Reported By: Emily Davis
+Department: Support
+Assigned To: IT Support Team
+Description
+User reported: Account compromised. Additional details: Failed login attempts from unknown IP addresses. Account
+temporarily locked.
+Additional Information
+Attachments: 2
+Comments: 4
+Tags: Security, Critical, Pending",,
+Security_Incident,ticket_04.json,JSON,"{
+  ""ticket_id"": ""TICK-SEC-0004"",
+  ""ticket_type"": ""Security_Incident"",
+  ""category"": ""Security"",
+  ""title"": ""Firewall alert"",
+  ""description"": ""User reported: Firewall alert. Additional details: Failed login attempts from unknown IP addresses. Account temporarily locked."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-12-18 20:39:17"",
+  ""updated_date"": ""2025-12-25 20:39:17"",
+  ""resolved_date"": ""2025-12-25 20:39:17"",
+  ""reported_by"": ""Jennifer Martinez"",
+  ""department"": ""Marketing"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""Security"",
+    ""Critical"",
+    ""Resolved""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 2
+}",User reported: Firewall alert. Additional details: Failed login attempts from unknown IP addresses. Account temporarily locked.,FIREWALL ALERT ADDITIONAL DETAILS FAILED LOGIN ATTEMPTS UNKNOWN IP ADDRESSES ACCOUNT TEMPORARILY LOCKED
+Security_Incident,ticket_04.pdf,PDF,"IT Support Ticket: TICK-SEC-0004
+Ticket Information
+Ticket ID: TICK-SEC-0004
+Type: Security_Incident
+Category: Security
+Title: Firewall alert
+Status: Resolved
+Priority: Critical
+Created Date: 2025-12-18 20:39:17
+Updated Date: 2025-12-25 20:39:17
+Resolved Date: 2025-12-25 20:39:17
+Reported By: Jennifer Martinez
+Department: Marketing
+Assigned To: IT Support Team
+Description
+User reported: Firewall alert. Additional details: Failed login attempts from unknown IP addresses. Account temporarily
+locked.
+Additional Information
+Attachments: 3
+Comments: 2
+Tags: Security, Critical, Resolved",,
+Security_Incident,ticket_05.json,JSON,"{
+  ""ticket_id"": ""TICK-SEC-0005"",
+  ""ticket_type"": ""Security_Incident"",
+  ""category"": ""Security"",
+  ""title"": ""Unauthorized access attempt"",
+  ""description"": ""User reported: Unauthorized access attempt. Additional details: Phishing email reported by multiple users. Email headers analyzed."",
+  ""status"": ""Resolved"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-03 20:39:17"",
+  ""updated_date"": ""2025-12-04 20:39:17"",
+  ""resolved_date"": ""2025-12-04 20:39:17"",
+  ""reported_by"": ""John Smith"",
+  ""department"": ""Sales"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Security"",
+    ""High"",
+    ""Resolved""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 4
+}",User reported: Unauthorized access attempt. Additional details: Phishing email reported by multiple users. Email headers analyzed.,UNAUTHORIZED ACCESS ATTEMPT ADDITIONAL DETAILS PHISHING EMAIL REPORTED MULTIPLE USERS EMAIL HEADERS ANALYZED
+Security_Incident,ticket_05.pdf,PDF,"IT Support Ticket: TICK-SEC-0005
+Ticket Information
+Ticket ID: TICK-SEC-0005
+Type: Security_Incident
+Category: Security
+Title: Unauthorized access attempt
+Status: Resolved
+Priority: High
+Created Date: 2025-12-03 20:39:17
+Updated Date: 2025-12-04 20:39:17
+Resolved Date: 2025-12-04 20:39:17
+Reported By: John Smith
+Department: Sales
+Assigned To: Network Admin
+Description
+User reported: Unauthorized access attempt. Additional details: Phishing email reported by multiple users. Email
+headers analyzed.
+Additional Information
+Attachments: 0
+Comments: 4
+Tags: Security, High, Resolved",,
+Security_Incident,ticket_06.json,JSON,"{
+  ""ticket_id"": ""TICK-SEC-0006"",
+  ""ticket_type"": ""Security_Incident"",
+  ""category"": ""Security"",
+  ""title"": ""Virus infection"",
+  ""description"": ""User reported: Virus infection. Additional details: Antivirus detected suspicious file. File quarantined. User notified."",
+  ""status"": ""In Progress"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-10 20:39:17"",
+  ""updated_date"": ""2025-12-17 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Robert Taylor"",
+  ""department"": ""Sales"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Security"",
+    ""High"",
+    ""In Progress""
+  ],
+  ""attachments"": 3,
+  ""comments_count"": 5
+}",User reported: Virus infection. Additional details: Antivirus detected suspicious file. File quarantined. User notified.,VIRUS INFECTION ADDITIONAL DETAILS ANTIVIRUS DETECTED SUSPICIOUS FILE FILE QUARANTINED USER NOTIFIED
+Security_Incident,ticket_06.pdf,PDF,"IT Support Ticket: TICK-SEC-0006
+Ticket Information
+Ticket ID: TICK-SEC-0006
+Type: Security_Incident
+Category: Security
+Title: Virus infection
+Status: In Progress
+Priority: High
+Created Date: 2025-12-10 20:39:17
+Updated Date: 2025-12-17 20:39:17
+Resolved Date: N/A
+Reported By: Robert Taylor
+Department: Sales
+Assigned To: Network Admin
+Description
+User reported: Virus infection. Additional details: Antivirus detected suspicious file. File quarantined. User notified.
+Additional Information
+Attachments: 3
+Comments: 5
+Tags: Security, High, In Progress",,
+Security_Incident,ticket_07.json,JSON,"{
+  ""ticket_id"": ""TICK-SEC-0007"",
+  ""ticket_type"": ""Security_Incident"",
+  ""category"": ""Security"",
+  ""title"": ""Account compromised"",
+  ""description"": ""User reported: Account compromised. Additional details: Phishing email reported by multiple users. Email headers analyzed."",
+  ""status"": ""Closed"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-11-30 20:39:17"",
+  ""updated_date"": ""2025-12-05 20:39:17"",
+  ""resolved_date"": ""2025-12-05 20:39:17"",
+  ""reported_by"": ""Robert Taylor"",
+  ""department"": ""HR"",
+  ""assigned_to"": ""Network Admin"",
+  ""tags"": [
+    ""Security"",
+    ""Critical"",
+    ""Closed""
+  ],
+  ""attachments"": 0,
+  ""comments_count"": 2
+}",User reported: Account compromised. Additional details: Phishing email reported by multiple users. Email headers analyzed.,ACCOUNT COMPROMISED ADDITIONAL DETAILS PHISHING EMAIL REPORTED MULTIPLE USERS EMAIL HEADERS ANALYZED
+Security_Incident,ticket_07.pdf,PDF,"IT Support Ticket: TICK-SEC-0007
+Ticket Information
+Ticket ID: TICK-SEC-0007
+Type: Security_Incident
+Category: Security
+Title: Account compromised
+Status: Closed
+Priority: Critical
+Created Date: 2025-11-30 20:39:17
+Updated Date: 2025-12-05 20:39:17
+Resolved Date: 2025-12-05 20:39:17
+Reported By: Robert Taylor
+Department: HR
+Assigned To: Network Admin
+Description
+User reported: Account compromised. Additional details: Phishing email reported by multiple users. Email headers
+analyzed.
+Additional Information
+Attachments: 0
+Comments: 2
+Tags: Security, Critical, Closed",,
+Security_Incident,ticket_08.json,JSON,"{
+  ""ticket_id"": ""TICK-SEC-0008"",
+  ""ticket_type"": ""Security_Incident"",
+  ""category"": ""Security"",
+  ""title"": ""Ransomware threat"",
+  ""description"": ""User reported: Ransomware threat. Additional details: Security scan detected vulnerability. Patch available. Deployment scheduled."",
+  ""status"": ""Resolved"",
+  ""priority"": ""Critical"",
+  ""created_date"": ""2025-11-30 20:39:17"",
+  ""updated_date"": ""2025-12-02 20:39:17"",
+  ""resolved_date"": ""2025-12-02 20:39:17"",
+  ""reported_by"": ""David Wilson"",
+  ""department"": ""Support"",
+  ""assigned_to"": ""Security Team"",
+  ""tags"": [
+    ""Security"",
+    ""Critical"",
+    ""Resolved""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 0
+}",User reported: Ransomware threat. Additional details: Security scan detected vulnerability. Patch available. Deployment scheduled.,RANSOMWARE THREAT ADDITIONAL DETAILS SECURITY SCAN DETECTED VULNERABILITY PATCH AVAILABLE DEPLOYMENT SCHEDULED
+Security_Incident,ticket_08.pdf,PDF,"IT Support Ticket: TICK-SEC-0008
+Ticket Information
+Ticket ID: TICK-SEC-0008
+Type: Security_Incident
+Category: Security
+Title: Ransomware threat
+Status: Resolved
+Priority: Critical
+Created Date: 2025-11-30 20:39:17
+Updated Date: 2025-12-02 20:39:17
+Resolved Date: 2025-12-02 20:39:17
+Reported By: David Wilson
+Department: Support
+Assigned To: Security Team
+Description
+User reported: Ransomware threat. Additional details: Security scan detected vulnerability. Patch available. Deployment
+scheduled.
+Additional Information
+Attachments: 1
+Comments: 0
+Tags: Security, Critical, Resolved",,
+Security_Incident,ticket_09.json,JSON,"{
+  ""ticket_id"": ""TICK-SEC-0009"",
+  ""ticket_type"": ""Security_Incident"",
+  ""category"": ""Security"",
+  ""title"": ""Account compromised"",
+  ""description"": ""User reported: Account compromised. Additional details: Antivirus detected suspicious file. File quarantined. User notified."",
+  ""status"": ""Resolved"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-11-30 20:39:17"",
+  ""updated_date"": ""2025-12-09 20:39:17"",
+  ""resolved_date"": ""2025-12-09 20:39:17"",
+  ""reported_by"": ""Jennifer Martinez"",
+  ""department"": ""Marketing"",
+  ""assigned_to"": ""System Admin"",
+  ""tags"": [
+    ""Security"",
+    ""High"",
+    ""Resolved""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 5
+}",User reported: Account compromised. Additional details: Antivirus detected suspicious file. File quarantined. User notified.,ACCOUNT COMPROMISED ADDITIONAL DETAILS ANTIVIRUS DETECTED SUSPICIOUS FILE FILE QUARANTINED USER NOTIFIED
+Security_Incident,ticket_09.pdf,PDF,"IT Support Ticket: TICK-SEC-0009
+Ticket Information
+Ticket ID: TICK-SEC-0009
+Type: Security_Incident
+Category: Security
+Title: Account compromised
+Status: Resolved
+Priority: High
+Created Date: 2025-11-30 20:39:17
+Updated Date: 2025-12-09 20:39:17
+Resolved Date: 2025-12-09 20:39:17
+Reported By: Jennifer Martinez
+Department: Marketing
+Assigned To: System Admin
+Description
+User reported: Account compromised. Additional details: Antivirus detected suspicious file. File quarantined. User
+notified.
+Additional Information
+Attachments: 1
+Comments: 5
+Tags: Security, High, Resolved",,
+Security_Incident,ticket_10.json,JSON,"{
+  ""ticket_id"": ""TICK-SEC-0010"",
+  ""ticket_type"": ""Security_Incident"",
+  ""category"": ""Security"",
+  ""title"": ""Suspicious activity"",
+  ""description"": ""User reported: Suspicious activity. Additional details: Antivirus detected suspicious file. File quarantined. User notified."",
+  ""status"": ""In Progress"",
+  ""priority"": ""High"",
+  ""created_date"": ""2025-12-13 20:39:17"",
+  ""updated_date"": ""2025-12-13 20:39:17"",
+  ""resolved_date"": null,
+  ""reported_by"": ""Sarah Johnson"",
+  ""department"": ""Marketing"",
+  ""assigned_to"": ""IT Support Team"",
+  ""tags"": [
+    ""Security"",
+    ""High"",
+    ""In Progress""
+  ],
+  ""attachments"": 1,
+  ""comments_count"": 0
+}",User reported: Suspicious activity. Additional details: Antivirus detected suspicious file. File quarantined. User notified.,SUSPICIOUS ACTIVITY ADDITIONAL DETAILS ANTIVIRUS DETECTED SUSPICIOUS FILE FILE QUARANTINED USER NOTIFIED
+Security_Incident,ticket_10.pdf,PDF,"IT Support Ticket: TICK-SEC-0010
+Ticket Information
+Ticket ID: TICK-SEC-0010
+Type: Security_Incident
+Category: Security
+Title: Suspicious activity
+Status: In Progress
+Priority: High
+Created Date: 2025-12-13 20:39:17
+Updated Date: 2025-12-13 20:39:17
+Resolved Date: N/A
+Reported By: Sarah Johnson
+Department: Marketing
+Assigned To: IT Support Team
+Description
+User reported: Suspicious activity. Additional details: Antivirus detected suspicious file. File quarantined. User notified.
+Additional Information
+Attachments: 1
+Comments: 0
+Tags: Security, High, In Progress",,
